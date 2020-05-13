@@ -115,7 +115,7 @@
             "caption": "FIVE is audio",
             "credit": "audio credit",
             "altText": "Image five alt text",
-            "url": "https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4",
+            "url": "http://techslides.com/demos/sample-videos/small.mp4",
             "thumbnailUrl": "https://picsum.photos/500/290",
             "type": "audio"
           }
