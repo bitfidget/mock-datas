@@ -118,6 +118,24 @@
             "url": "http://techslides.com/demos/sample-videos/small.mp4",
             "thumbnailUrl": "https://picsum.photos/500/290",
             "type": "audio"
+          },
+          {
+            "mediaItemId": 1,
+            "caption": "ONE",
+            "credit": "Image one credit",
+            "altText": "Image one alt text",
+            "url": "https://picsum.photos/1200/800",
+            "thumbnailUrl": "https://picsum.photos/500/310",
+            "type": "image"
+          },
+          {
+            "mediaItemId": 3,
+            "caption": "THREE",
+            "credit": "Image three credit",
+            "altText": "Image three alt text",
+            "url": "https://picsum.photos/1200/800",
+            "thumbnailUrl": "https://picsum.photos/500/290",
+            "type": "image"
           }
         ]
       }
