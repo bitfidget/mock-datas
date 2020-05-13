@@ -269,21 +269,48 @@
         ],
         "mediaItems": [{
             "mediaItemId": 4,
-            "caption": "FOUR is a video",
+            "caption": "Start with a pretty video",
             "credit": "video credit",
             "altText": "Image four alt text",
-            "url": "https://picsum.photos/1200/800",
+            "url": "https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4",
             "thumbnailUrl": "https://picsum.photos/500/280",
             "type": "video"
           },
           {
             "mediaItemId": 5,
-            "caption": "FIVE is audio",
+            "caption": "A Lego video",
+            "credit": "video credit",
+            "altText": "Image five alt text",
+            "url": "http://techslides.com/demos/sample-videos/small.mp4",
+            "thumbnailUrl": "https://picsum.photos/500/295",
+            "type": "audio"
+          },
+          {
+            "mediaItemId": 6,
+            "caption": "Some nice audio",
             "credit": "audio credit",
             "altText": "Image five alt text",
+            "url": "http://www.hochmuth.com/mp3/Bloch_Prayer.mp3",
+            "thumbnailUrl": "https://picsum.photos/500/305",
+            "type": "audio"
+          },
+          {
+            "mediaItemId": 1,
+            "caption": "Just an image",
+            "credit": "Just an image",
+            "altText": "Image one alt text",
+            "url": "https://picsum.photos/1200/800",
+            "thumbnailUrl": "https://picsum.photos/500/310",
+            "type": "image"
+          },
+          {
+            "mediaItemId": 3,
+            "caption": "Another image",
+            "credit": "Another image",
+            "altText": "Image three alt text",
             "url": "https://picsum.photos/1200/800",
             "thumbnailUrl": "https://picsum.photos/500/290",
-            "type": "audio"
+            "type": "image"
           }
         ]
       }
