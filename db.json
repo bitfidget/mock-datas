@@ -106,7 +106,7 @@
             "caption": "FOUR is a video",
             "credit": "video credit",
             "altText": "Image four alt text",
-            "url": "https://picsum.photos/1200/800",
+            "url": "https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4",
             "thumbnailUrl": "https://picsum.photos/500/280",
             "type": "video"
           },
@@ -115,7 +115,7 @@
             "caption": "FIVE is audio",
             "credit": "audio credit",
             "altText": "Image five alt text",
-            "url": "https://picsum.photos/1200/800",
+            "url": "https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-576p.mp4",
             "thumbnailUrl": "https://picsum.photos/500/290",
             "type": "audio"
           }
