@@ -467,8 +467,8 @@
       "description": "Explore the Ginn Rooms",
       "years": "1860-1874",
       "tagline": "Explore the Ginn Rooms",
-      "thumbnailUrl": "room_plan_ginn_mobile.png",
-      "menuImgUrl": "https://picsum.photos/500/290",
+      "thumbnailUrl": "https://picsum.photos/500/290",
+      "menuImgUrl": "room_plan_ginn_mobile.png",
       "poiNodes": [
         {
           "nodeId": 4,
@@ -605,8 +605,8 @@
       "description": "Explore the Ginn Rooms",
       "years": "1874-1933",
       "tagline": "Explore the Blundell Rooms",
-      "thumbnailUrl": "room_plan_blundell_mobile.png",
-      "menuImgUrl": "https://picsum.photos/500/300",
+      "thumbnailUrl": "https://picsum.photos/500/300",
+      "menuImgUrl": "room_plan_blundell_mobile.png",
       "poiNodes": [
         {
           "nodeId": 4,
