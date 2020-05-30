@@ -716,7 +716,7 @@
       "description": "Explore the Ginn Rooms",
       "years": "1860-1874",
       "tagline": "Explore the Ginn Rooms",
-      "thumbnailUrl": "https://picsum.photos/500/290",
+      "menuBgUrl": "room_selection_ginn.png",
       "menuImgUrl": "room_plan_ginn_mobile.png",
       "poiNodes": [{
           "nodeId": 4,
@@ -847,7 +847,7 @@
       "description": "Explore the Blundell Rooms",
       "years": "1874-1933",
       "tagline": "Explore the Blundell Rooms",
-      "thumbnailUrl": "https://picsum.photos/500/300",
+      "menuBgUrl": "room_selection_blundell.png",
       "menuImgUrl": "room_plan_blundell_mobile.png",
       "poiNodes": [{
           "nodeId": 4,
@@ -978,7 +978,7 @@
       "description": "Explore the Oldfield Rooms",
       "years": "1860-1874",
       "tagline": "Explore the Oldfield Rooms",
-      "thumbnailUrl": "https://picsum.photos/500/290",
+      "menuBgUrl": "room_selection_oldfield.png",
       "menuImgUrl": "room_plan_oldfield_mobile.png",
       "poiNodes": [{
           "nodeId": 4,
@@ -1109,7 +1109,7 @@
       "description": "Explore the Sainsbury Rooms",
       "years": "1874-1933",
       "tagline": "Explore the Sainsbury Rooms",
-      "thumbnailUrl": "https://picsum.photos/500/300",
+      "menuBgUrl": "room_selection_sainsbury.png",
       "menuImgUrl": "room_plan_sainsbury_mobile.png",
       "poiNodes": [{
           "nodeId": 4,
