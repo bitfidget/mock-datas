@@ -1234,5 +1234,17 @@
         }
       ]
     }
-  ]
+  ],
+  "about": {
+    "text": "<p>This exterior oven was built in an extension to the Cottage completed in 1888, the same year the eighth Blundell child was born. Flora would use this oven to bake bread for the family three times a week. On the other days, the family would eat damper. When she wasn't using it, Flora would let her neighbours, such as Mrs. Mayo, bake for their own families. Thousands of years ago, the local Aboriginal people would also make a type of bread or cake from ground Bogong Moths and Kangaroo Grass.</p>\n<p>These posts represent the fenceline of the northern boundary of George Blundell's 125 acre leasehold. Property boundary fences were mandatory from the time of the Robertson Land Act of 1864. The Blundell children had to walk a long way to school when the St John's government school nearby closed and was re-opened at Narrabunda. Internal fencing of paddocks became more common in the 1880s, but was not a statutory requirement.</p>\n<p>The Campbell family, who owned Duntroon Estate, allotted a house and a parcel of land to each married worker on the estate. Blundells Cottage is the only remaining workers' cottage from that time period.  In addition to the provision of lodgings, the Campbells granted workers a free half day on Saturdays to tend their gardens. Subsequent families also grew their own food for themselves and for sale. This garden bed represents the approximate site of Alice Oldfield's garden. The Sainsbury Family (in the 60s) grew potatoes and watermelons on the western side of the house.</p>",
+    "mediaItems": [{
+      "mediaItemId": 1,
+      "caption": "The fenceline walk.",
+      "credit": "National Capital Authority, 2020",
+      "altText": "The fenceline at Blundells Cottage.",
+      "url": "media/blundells_fence_line_small.jpg",
+      "thumbnailUrl": "media/blundells_fence_line_small.jpg",
+      "type": "image"
+    }]
+  }
 }
