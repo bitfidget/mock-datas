@@ -795,7 +795,7 @@
       "description": "Explore the Ginn Rooms",
       "years": "1860-1874",
       "tagline": "Explore the Ginn Rooms",
-      "thumbnailUrl": "assets/media/ginn_room_thumbnail.jpg",
+      "menuBgUrl": "assets/media/ginn_room_thumbnail.jpg",
       "menuImgUrl": "room_plan_ginn_mobile.png",
       "poiNodes": [
         {
