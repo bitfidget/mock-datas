@@ -795,7 +795,7 @@
       "description": "Explore the Ginn Rooms",
       "years": "1860-1874",
       "tagline": "Explore the Ginn Rooms",
-      "thumbnailUrl": "media/ginn_room_thumbnail.jpg",
+      "thumbnailUrl": "assets/media/ginn_room_thumbnail.jpg",
       "menuImgUrl": "room_plan_ginn_mobile.png",
       "poiNodes": [
         {
@@ -804,7 +804,7 @@
           "lat": 329,
           "title": "Vaccination Certificate",
           "description": "<p>William and Mary Ginn and their two boys arrived in Sydney Cove on 23 July 1857 aboard the ship called <i>The Alfred</i> as assisted immigrants. All immigrants were required to be vaccinated against smallpox before their arrival in Australia. The voyage could be a perilous journey and some ships, like the <i>Loch Ard</i>, were wrecked off the coast of Victoria in 1878.</p>",
-          "thumbnailUrl": "media/blundells_vaccination_certificate_small.jpg",
+          "thumbnailUrl": "assets/media/blundells_vaccination_certificate_small.jpg",
           "themes": [
             {
               "themeId": 1,
@@ -833,8 +833,8 @@
               "caption": "Walter Ginn's vaccination certificate dated 7 November 1854.",
               "credit": "National Capital Authority, 2020",
               "altText": "Walter Ginn's vaccination certificate dated 7 November 1854.",
-              "url": "media/blundells_vaccination_certificate_small.jpg",
-              "thumbnailUrl": "media/blundells_vaccination_certificate_small.jpg",
+              "url": "assets/media/blundells_vaccination_certificate_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_vaccination_certificate_small.jpg",
               "type": "image"
             },
             {
@@ -842,8 +842,8 @@
               "caption": "Wreck of the Loch Ard near Sherbrook River, from Illustrated Sydney news and New South Wales Agriculturist & Grazier, 13 July 1878, p. 13.",
               "credit": "Accession Number H2002.150/51Phillip Doak Collection, State Library of Victoria",
               "altText": "Wreck of the Loch Ard near Sherbrook River, from Illustrated Sydney news and New South Wales Agriculturist & Grazier, 13 July 1878, p. 13.",
-              "url": "media/screenshot_WreckoftheLochArd.png",
-              "thumbnailUrl": "media/screenshot_WreckoftheLochArd.png",
+              "url": "assets/media/screenshot_WreckoftheLochArd.png",
+              "thumbnailUrl": "assets/media/screenshot_WreckoftheLochArd.png",
               "type": "image"
             }
           ]
@@ -854,7 +854,7 @@
           "lat": 478,
           "title": "Knuckles",
           "description": "<p>Knucklebones is a game that has existed for thousands of years across many countries. Commonly, the ankle bones of a sheep are thrown up and caught in different ways. The winner is the first player to successfully complete a series of perscribed throws. In the 1800s, people often handmade their own toys and dolls rather than buying them in a shop. Can you find a game in every room at Blundells Cottage?</p>",
-          "thumbnailUrl": "media/blundells_knuckles_1_small.jpg",
+          "thumbnailUrl": "assets/media/blundells_knuckles_1_small.jpg",
           "themes": [
             {
               "themeId": 1,
@@ -875,8 +875,8 @@
               "caption": "Knucklebones game and cloth bag.",
               "credit": "National Capital Authority, 2020",
               "altText": "Knucklebones game and cloth bag.",
-              "url": "media/blundells_knuckles_1_small.jpg",
-              "thumbnailUrl": "media/blundells_knuckles_1_small.jpg",
+              "url": "assets/media/blundells_knuckles_1_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_knuckles_1_small.jpg",
               "type": "image"
             }
           ]
@@ -887,7 +887,7 @@
           "lat": 645,
           "title": "Inkwell, Bible and Book",
           "description": "<p>William and Mary Ginn were the first occupants of the Cottage. Mary's arrival documents record that she was a literate house servant and that William (who could neither read nor write) was a labourer. William and Mary were presented with <i>The Cottagers Family Prayers</i> book on 11 April 1857 by the Rev. Charles Colson with his best wishes. St John the Baptist church would have been an integral part of community life in this district from its consecration in 1845.</p>",
-          "thumbnailUrl": "media/blundells_inkwell_bible_book_1a_small.jpg",
+          "thumbnailUrl": "assets/media/blundells_inkwell_bible_book_1a_small.jpg",
           "themes": [
             {
               "themeId": 1,
@@ -912,8 +912,8 @@
               "caption": "Mary Ginn's bible, inkwell and pen.",
               "credit": "National Capital Authority, 2020",
               "altText": "Mary Ginn's bible, inkwell and pen.",
-              "url": "media/blundells_inkwell_bible_book_1a_small.jpg",
-              "thumbnailUrl": "media/blundells_inkwell_bible_book_1a_small.jpg",
+              "url": "assets/media/blundells_inkwell_bible_book_1a_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_inkwell_bible_book_1a_small.jpg",
               "type": "image"
             },
             {
@@ -921,8 +921,8 @@
               "caption": "Church of St Johns Canberra, March 18 2007.",
               "credit": "John https://www.flickr.com/photos/shebalso/448617320/in/photostream/",
               "altText": "Church of St Johns Canberra, March 18 2007.",
-              "url": "media/downloaded_churchofStJohns.jpg",
-              "thumbnailUrl": "media/downloaded_churchofStJohns.jpg",
+              "url": "assets/media/downloaded_churchofStJohns.jpg",
+              "thumbnailUrl": "assets/media/downloaded_churchofStJohns.jpg",
               "type": "image"
             }
           ]
@@ -933,7 +933,7 @@
           "lat": 600,
           "title": "Candle Mould",
           "description": "<p>Poorer families had to make candles at home rather than buy them in a shop. By the 1850s, most families used paraffin or beeswax to pour into a mould like this. Can you find a source of light in every room at Blundells Cottage? How have lighting methods changed over time?</p>",
-          "thumbnailUrl": "media/blundells_candle_mould_small.jpg",
+          "thumbnailUrl": "assets/media/blundells_candle_mould_small.jpg",
           "themes": [
             {
               "themeId": 1,
@@ -950,8 +950,8 @@
               "caption": "Candle mould.",
               "credit": "National Capital Authority, 2020",
               "altText": "Candle mould.",
-              "url": "media/blundells_candle_mould_small.jpg",
-              "thumbnailUrl": "media/blundells_candle_mould_small.jpg",
+              "url": "assets/media/blundells_candle_mould_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_candle_mould_small.jpg",
               "type": "image"
             }
           ]
@@ -962,7 +962,7 @@
           "lat": 563,
           "title": "Iron",
           "description": "<p>At home in the 1860s, ironing without electricity was a hard job. Most plain metal irons were heated by a fire or on a stove and they often had a wooden handle so they could be held without getting too hot. At least two irons were needed: one to be in use and one to be re-heated on the fire or stove.</p>",
-          "thumbnailUrl": "media/blundells_iron_1_small.jpg",
+          "thumbnailUrl": "assets/media/blundells_iron_1_small.jpg",
           "themes": [
             {
               "themeId": 1,
@@ -987,8 +987,8 @@
               "caption": "Sad Irons.",
               "credit": "Credit missing",
               "altText": "Sad Irons.",
-              "url": "media/blundells_iron_1_small.jpg",
-              "thumbnailUrl": "media/blundells_iron_1_small.jpg",
+              "url": "assets/media/blundells_iron_1_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_iron_1_small.jpg",
               "type": "image"
             }
           ]
@@ -999,7 +999,7 @@
           "lat": 424,
           "title": "Produce Bags",
           "description": "<p>Before plastic ware or prepackaged goods were available, people used cloth bags when buying and storing food. The bags were re-used and would have been refilled at the Duntroon store that issued supplies to employees. Can you find food containers in every room at Blundells Cottage? How have containers changed over time?</p>",
-          "thumbnailUrl": "media/blundells_produce_bags_small.jpg",
+          "thumbnailUrl": "assets/media/blundells_produce_bags_small.jpg",
           "themes": [
             {
               "themeId": 1,
@@ -1016,8 +1016,8 @@
               "caption": "Cloth bags.",
               "credit": "National Capital Authority, 2020",
               "altText": "Cloth bags.",
-              "url": "media/blundells_produce_bags_small.jpg",
-              "thumbnailUrl": "media/blundells_produce_bags_small.jpg",
+              "url": "assets/media/blundells_produce_bags_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_produce_bags_small.jpg",
               "type": "image"
             }
           ]
@@ -1028,7 +1028,7 @@
           "lat": 603,
           "title": "Tool Basket",
           "description": "<p>William Ginn was a skilled labourer and was the Head Ploughman on the Duntroon Estate. He was respected by his employer, Charles Campbell, for his quiet manner and diligence. The Robertson Land Acts came into effect not long after William moved into the Cottage, enabling him to select two lots of 40 acres. In his lifetime, William went from a free employee migrant, to a tenant farmer, to a land owner.</p>",
-          "thumbnailUrl": "media/blundells_tool_basket_small.jpg",
+          "thumbnailUrl": "assets/media/blundells_tool_basket_small.jpg",
           "themes": [
             {
               "themeId": 1,
@@ -1049,8 +1049,8 @@
               "caption": "Tool basket, short-handled pick and a coffin plane.",
               "credit": "National Capital Authority, 2020",
               "altText": "Tool basket, short-handled pick and a coffin plane.",
-              "url": "media/blundells_tool_basket_small.jpg",
-              "thumbnailUrl": "media/blundells_tool_basket_small.jpg",
+              "url": "assets/media/blundells_tool_basket_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_tool_basket_small.jpg",
               "type": "image"
             },
             {
@@ -1058,8 +1058,8 @@
               "caption": "Crown Lands Alienation Act of 1861, Government of New South Wales.",
               "credit": "Austlii",
               "altText": "Crown Lands Alienation Act of 1861, Government of New South Wales.",
-              "url": "media/screenshot_CrownLandsAlienationActof1861.png",
-              "thumbnailUrl": "media/screenshot_CrownLandsAlienationActof1861.png",
+              "url": "assets/media/screenshot_CrownLandsAlienationActof1861.png",
+              "thumbnailUrl": "assets/media/screenshot_CrownLandsAlienationActof1861.png",
               "type": "image"
             }
           ]
@@ -1070,7 +1070,7 @@
           "lat": 718,
           "title": "Bed",
           "description": "<p>This is the original bed that the Ginn family brought with them from England to Australia. It would have been stowed away on their ship, <i>the Albert</i>. Large trunks were used as bed bases for the children and bed rolls were placed on top. Have you ever travelled far from home? Journeys can be accompanied by feelings of apprehension, excitment, fear and sadness.</p>",
-          "thumbnailUrl": "media/blundells_bed_small.jpg",
+          "thumbnailUrl": "assets/media/blundells_bed_small.jpg",
           "themes": [
             {
               "themeId": 1,
@@ -1091,8 +1091,8 @@
               "caption": "Original Ginn family bed circa 1850s.",
               "credit": "National Capital Authority, 2020",
               "altText": "Original Ginn family bed circa 1850s",
-              "url": "media/blundells_bed_small.jpg",
-              "thumbnailUrl": "media/blundells_bed_small.jpg",
+              "url": "assets/media/blundells_bed_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_bed_small.jpg",
               "type": "image"
             }
           ]
@@ -1103,7 +1103,7 @@
           "lat": 408,
           "title": "Baby's Cot",
           "description": "<p>The Ginn family had two boys when they arrived in Australia: Walter and Henry. Baby Gertrude was born before they moved into the Cottage and Agnes some time after. It was common for goods like a cot to be shared in the commuity if they were no longer needed by a family.</p>",
-          "thumbnailUrl": "media/blundells_baby_cot_small.jpg",
+          "thumbnailUrl": "assets/media/blundells_baby_cot_small.jpg",
           "themes": [
             {
               "themeId": 1,
@@ -1124,8 +1124,8 @@
               "caption": "Ginn family cot.",
               "credit": "National Capital Authority, 2020",
               "altText": "Ginn family cot.",
-              "url": "media/blundells_baby_cot_small.jpg",
-              "thumbnailUrl": "media/blundells_baby_cot_small.jpg",
+              "url": "assets/media/blundells_baby_cot_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_baby_cot_small.jpg",
               "type": "image"
             }
           ]
@@ -1136,7 +1136,7 @@
           "lat": 731,
           "title": "Big Trunk",
           "description": "<p>The Ginns would have experienced cramped conditions on their journey from England to Australia on a ship. Clothing and some supplies would have been stored in a canvas bag or small cabin trunk, for ready access, while the remainder of their possessions would have been stored in a trunk such as this. Passengers would have had limited access to their large trunks if weather conditions allowed.</p>",
-          "thumbnailUrl": "media/blundells_big_trunk_small.jpg",
+          "thumbnailUrl": "assets/media/blundells_big_trunk_small.jpg",
           "themes": [
             {
               "themeId": 1,
@@ -1157,8 +1157,8 @@
               "caption": "Storage trunk in the Ginn rooms.",
               "credit": "National Capital Authority, 2020",
               "altText": "Storage trunk in the Ginn rooms.",
-              "url": "media/blundells_big_trunk_small.jpg",
-              "thumbnailUrl": "media/blundells_big_trunk_small.jpg",
+              "url": "assets/media/blundells_big_trunk_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_big_trunk_small.jpg",
               "type": "image"
             }
           ]
