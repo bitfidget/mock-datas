@@ -2601,6 +2601,16 @@
       }
     ]
   },
+
+
+
+
+
+
+
+
+
+
   "rooms": [{
       "roomId": 1,
       "title": "Ginn Family",
@@ -2609,6 +2619,25 @@
       "tagline": "Explore the Ginn Rooms",
       "thumbnailUrl": "assets/media/1_Photo_of_Gertrude_and_Agnes_CDHS_Photo_345_thumb.jpg",
       "menuImgUrl": "room_plan_ginn_mobile.png",
+      "mediaItems": [{
+          "mediaItemId": 1,
+          "caption": "Walter Ginn's vaccination certificate dated 7 November 1854.",
+          "credit": "National Capital Authority, 2020",
+          "altText": "Walter Ginn's vaccination certificate dated 7 November 1854.",
+          "url": "assets/media/1_Photo_of_Gertrude_and_Agnes_CDHS_Photo_345_thumb.jpg",
+          "thumbnailUrl": "assets/media/1_Photo_of_Gertrude_and_Agnes_CDHS_Photo_345_thumb.jpg",
+          "type": "image"
+        },
+        {
+          "mediaItemId": 2,
+          "caption": "Wreck of the Loch Ard near Sherbrook River, from Illustrated Sydney news and New South Wales Agriculturist & Grazier, 13 July 1878, p. 13.",
+          "credit": "Accession Number H2002.150/51Phillip Doak Collection, State Library of Victoria",
+          "altText": "Wreck of the Loch Ard near Sherbrook River, from Illustrated Sydney news and New South Wales Agriculturist & Grazier, 13 July 1878, p. 13.",
+          "url": "assets/media/2_Wreck_of_the_Loch_Ard_and_near_Sherbrook_River_from_Illustrated_Sydney_News_and_New_South_Wales_Agriculturist_and_Grazier_13_July_1878_p_13_Source-_Phillip_Doak_1958-1999_photographer_edit.jpg",
+          "thumbnailUrl": "assets/media/2_Wreck_of_the_Loch_Ard_and_near_Sherbrook_River_from_Illustrated_Sydney_News_and_New_South_Wales_Agriculturist_and_Grazier_13_July_1878_p_13_Source-_Phillip_Doak_1958-1999_photographer_thumb.jpg",
+          "type": "image"
+        }
+      ],
       "poiNodes": [{
           "nodeId": 50,
           "lon": 2043,
@@ -3021,6 +3050,25 @@
       "tagline": "Explore the Blundell Rooms",
       "thumbnailUrl": "assets/media/1_Flora_Blundell_Source_NCA_thumb.jpg",
       "menuImgUrl": "room_plan_ginn_mobile.png",
+      "mediaItems": [{
+          "mediaItemId": 1,
+          "caption": "Walter Ginn's vaccination certificate dated 7 November 1854.",
+          "credit": "National Capital Authority, 2020",
+          "altText": "Walter Ginn's vaccination certificate dated 7 November 1854.",
+          "url": "assets/media/blundells_alice_photo_small_thumb.jpg",
+          "thumbnailUrl": "assets/media/blundells_alice_photo_small_thumb.jpg",
+          "type": "image"
+        },
+        {
+          "mediaItemId": 2,
+          "caption": "Wreck of the Loch Ard near Sherbrook River, from Illustrated Sydney news and New South Wales Agriculturist & Grazier, 13 July 1878, p. 13.",
+          "credit": "Accession Number H2002.150/51Phillip Doak Collection, State Library of Victoria",
+          "altText": "Wreck of the Loch Ard near Sherbrook River, from Illustrated Sydney news and New South Wales Agriculturist & Grazier, 13 July 1878, p. 13.",
+          "url": "assets/media/2_Wreck_of_the_Loch_Ard_and_near_Sherbrook_River_from_Illustrated_Sydney_News_and_New_South_Wales_Agriculturist_and_Grazier_13_July_1878_p_13_Source-_Phillip_Doak_1958-1999_photographer_edit.jpg",
+          "thumbnailUrl": "assets/media/2_Wreck_of_the_Loch_Ard_and_near_Sherbrook_River_from_Illustrated_Sydney_News_and_New_South_Wales_Agriculturist_and_Grazier_13_July_1878_p_13_Source-_Phillip_Doak_1958-1999_photographer_thumb.jpg",
+          "type": "image"
+        }
+      ],
       "poiNodes": [{
           "nodeId": 100,
           "lon": 3553,
@@ -3398,6 +3446,25 @@
       "tagline": "Explore the Oldfield Rooms",
       "thumbnailUrl": "assets/media/blundells_alice_photo_small_thumb.jpg",
       "menuImgUrl": "room_plan_ginn_mobile.png",
+      "mediaItems": [{
+          "mediaItemId": 1,
+          "caption": "Walter Ginn's vaccination certificate dated 7 November 1854.",
+          "credit": "National Capital Authority, 2020",
+          "altText": "Walter Ginn's vaccination certificate dated 7 November 1854.",
+          "url": "assets/media/1_Glenn_and_Betty_wedding_pic_thumb.jpg",
+          "thumbnailUrl": "assets/media/1_Glenn_and_Betty_wedding_pic_thumb.jpg",
+          "type": "image"
+        },
+        {
+          "mediaItemId": 2,
+          "caption": "Wreck of the Loch Ard near Sherbrook River, from Illustrated Sydney news and New South Wales Agriculturist & Grazier, 13 July 1878, p. 13.",
+          "credit": "Accession Number H2002.150/51Phillip Doak Collection, State Library of Victoria",
+          "altText": "Wreck of the Loch Ard near Sherbrook River, from Illustrated Sydney news and New South Wales Agriculturist & Grazier, 13 July 1878, p. 13.",
+          "url": "assets/media/2_Wreck_of_the_Loch_Ard_and_near_Sherbrook_River_from_Illustrated_Sydney_News_and_New_South_Wales_Agriculturist_and_Grazier_13_July_1878_p_13_Source-_Phillip_Doak_1958-1999_photographer_edit.jpg",
+          "thumbnailUrl": "assets/media/2_Wreck_of_the_Loch_Ard_and_near_Sherbrook_River_from_Illustrated_Sydney_News_and_New_South_Wales_Agriculturist_and_Grazier_13_July_1878_p_13_Source-_Phillip_Doak_1958-1999_photographer_thumb.jpg",
+          "type": "image"
+        }
+      ],
       "poiNodes": [{
           "nodeId": 150,
           "lon": 3358,
@@ -3947,6 +4014,25 @@
       "tagline": "Explore the Sainsbury Rooms",
       "thumbnailUrl": "assets/media/1_Glenn_and_Betty_wedding_pic_thumb.jpg",
       "menuImgUrl": "room_plan_sainsbury_mobile.png",
+      "mediaItems": [{
+          "mediaItemId": 1,
+          "caption": "Walter Ginn's vaccination certificate dated 7 November 1854.",
+          "credit": "National Capital Authority, 2020",
+          "altText": "Walter Ginn's vaccination certificate dated 7 November 1854.",
+          "url": "assets/media/blundells_vaccination_certificate_small.jpg",
+          "thumbnailUrl": "assets/media/blundells_vaccination_certificate_small_thumb.jpg",
+          "type": "image"
+        },
+        {
+          "mediaItemId": 2,
+          "caption": "Wreck of the Loch Ard near Sherbrook River, from Illustrated Sydney news and New South Wales Agriculturist & Grazier, 13 July 1878, p. 13.",
+          "credit": "Accession Number H2002.150/51Phillip Doak Collection, State Library of Victoria",
+          "altText": "Wreck of the Loch Ard near Sherbrook River, from Illustrated Sydney news and New South Wales Agriculturist & Grazier, 13 July 1878, p. 13.",
+          "url": "assets/media/2_Wreck_of_the_Loch_Ard_and_near_Sherbrook_River_from_Illustrated_Sydney_News_and_New_South_Wales_Agriculturist_and_Grazier_13_July_1878_p_13_Source-_Phillip_Doak_1958-1999_photographer_edit.jpg",
+          "thumbnailUrl": "assets/media/2_Wreck_of_the_Loch_Ard_and_near_Sherbrook_River_from_Illustrated_Sydney_News_and_New_South_Wales_Agriculturist_and_Grazier_13_July_1878_p_13_Source-_Phillip_Doak_1958-1999_photographer_thumb.jpg",
+          "type": "image"
+        }
+      ],
       "poiNodes": [{
           "nodeId": 200,
           "lon": 2223,
