@@ -2601,18 +2601,10 @@
       }
     ]
   },
-
-
-
-
-
-
-
-
-
-
   "rooms": [{
       "roomId": 1,
+      "lon": 223,
+      "lat": 109,
       "title": "Ginn Family",
       "description": "<p>William and Mary Ginn and their three children, Walter, Henry and Agnes, were the first family to move into the Cottage in about 1860. William Ginn was employed by the Duntroon Estate as Head Ploughman and was allocated Blundells Cottage as his accomodation which had enough room for his own farmlet including a cow. Unlike William, Mary was literate and was a house servant before her marriage. Their second daughter, Gertrude, was born in 1865 in the Cottage.</p>",
       "years": "1860–1874",
@@ -3044,6 +3036,8 @@
     },
     {
       "roomId": 2,
+      "lon": 223,
+      "lat": 109,
       "title": "Blundell Family",
       "description": "<p>George and Flora Blundell, the second occupants of Blundells Cottage, moved in as newlyweds in 1874. George was a bullock driver for the Duntroon Estate and Flora was the local midwife. They raised eight children in the Cottage.</p>",
       "years": "1874–1933",
@@ -3440,6 +3434,8 @@
     },
     {
       "roomId": 3,
+      "lon": 223,
+      "lat": 109,
       "title": "Oldfield Family",
       "description": "<p>Henry (Harry) Oldfield and his wife, Alice, moved into the Cottage in the early 1930s. When Harry died in 1942, Alice let her rooms to temporary borders, as accommodation was scarce in the growing Capital City.</p>",
       "years": "1933–1958",
@@ -4008,6 +4004,8 @@
     },
     {
       "roomId": 4,
+      "lon": 223,
+      "lat": 109,
       "title": "Sainsbury Family",
       "description": "<p>The Sainsbury family rented two rooms of Blundells Cottage from 1958–1960. Glenn and Betty lived in the Cottage with their three children: Brian, Susan and baby Wendy. Glenn worked as a carpentar on government constructions.</p>",
       "years": "1960–1962",
