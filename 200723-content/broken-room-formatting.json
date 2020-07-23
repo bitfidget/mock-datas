@@ -1,0 +1,467 @@
+[
+  {
+    "nodeId": 100,
+    "lon": 3232,
+    "lat": 1609,
+    "title": "Honey",
+    "description": "<p>George Blundell kept beehives in the paddock next to the Cottage and used the room which is now displayed as Alice Oldfield's kitchen to extract the honey. After the caps had been sliced off, the combs would be placed in muslin or mosquito net bags and hung from a hook in the exposed rafter over a pan to allow the honey to slowly run out.</p>",
+    "thumbnailUrl": "assets/media/media/blundells_honey_small_thumb.jpg",
+    "themes": [
+      {
+        "themeId": 13,
+        "themeName": "subsistence"
+      },
+      {
+        "themeId": 12,
+        "themeName": "sustainability"
+      },
+      {
+        "themeId": 3,
+        "themeName": "women's work"
+      },
+      {
+        "themeId": 5,
+        "themeName": "plains of promise"
+      },
+      {
+        "themeId": 4,
+        "themeName": "make do and mend"
+      },
+      {
+        "themeId": 33,
+        "themeName": "Blundell rooms"
+      }
+    ],
+    "mediaItems": [
+      {
+        "mediaItemId": 1,
+        "caption": "Jar of honey.",
+        "credit": "National Capital Authority",
+        "altText": "Jar of honey.",
+        "url": "assets/media/blundells_honey_small.jpg",
+        "thumbnailUrl": "assets/media/blundells_honey_small_thumb.jpg",
+        "type": "image"
+      }
+    ]
+  },
+  {
+    "nodeId": 101,
+    "lon": 2794,
+    "lat": 1236,
+    "title": "Sewing Kit and Sewing Machine",
+    "description": "<p>With eight children and an important role as the local midwife, there is no doubt Flora Blundell would have relied on her oldest daughter to make clothes for the family. The invention, and subsequent widespread availability, of the sewing machine would have been very welcome.</p>",
+    "thumbnailUrl": "assets/media/blundells_sewing_machine_small_thumb.jpg",
+    "themes": [
+      {
+        "themeId": 3,
+        "themeName": "women's work"
+      },
+      {
+        "themeId": 14,
+        "themeName": "family life"
+      },
+      {
+        "themeId": 4,
+        "themeName": "make do and mend"
+      },
+      {
+        "themeId": 33,
+        "themeName": "Blundell rooms"
+      }
+    ],
+    "mediaItems": [
+      {
+        "mediaItemId": 1,
+        "caption": "Sewing machine.",
+        "credit": "National Capital Authority",
+        "altText": "Sewing machine.",
+        "url": "assets/media/blundells_sewing_machine_small.jpg",
+        "thumbnailUrl": "assets/media/blundells_sewing_machine_small_thumb.jpg",
+        "type": "image"
+      },
+      {
+        "mediaItemId": 2,
+        "caption": "Flora Susannah Blundell - eldest daughter of Flora and George.",
+        "credit": "National Capital Authority",
+        "altText": "Flora Susannah Blundell - eldest daughter of Flora and George.",
+        "url": "assets/media/2_Daughter_Flora_Blundell_Source_NCA_edit.jpg",
+        "thumbnailUrl": "assets/media/2_Daughter_Flora_Blundell_Source_NCA_thumb.jpg",
+        "type": "image"
+      },
+      {
+        "mediaItemId": 3,
+        "caption": "Left, Sarah Blundell (wife of Fred Blundell) and her sisters-in-law, Alice (born 1885) and Ada (born 1883) Blundell. Fred, Ada and Alice were the children of George and Flora Blundell.",
+        "credit": "CDHS Collection, Photograph 2314",
+        "altText": "Left, Sarah Blundell (wife of Fred Blundell) and her sisters-in-law, Alice (born 1885) and Ada (born 1883) Blundell. Fred, Ada and Alice were the children of George and Flora Blundell.",
+        "url": "assets/media/3_Blundell_Girls_CDHS_photo_2314_edit.jpg",
+        "thumbnailUrl": "assets/media/3_Blundell_Girls_CDHS_photo_2314_thumb.jpg",
+        "type": "image"
+      }
+    ]
+  },
+  {
+    "nodeId": 102,
+    "lon": 3321,
+    "lat": 1662,
+    "title": "Canisters",
+    "description": "<p>These containers are vermin-proof and keep their contents at a stable temperature. Can you find food containers in every room of the Cottage? How have they changed over time?</p>",
+    "thumbnailUrl": "assets/media/blundells_canisters_3_small_thumb.jpg",
+    "themes": [
+      {
+        "themeId": 12,
+        "themeName": "sustainability"
+      },
+      {
+        "themeId": 1,
+        "themeName": "family ties"
+      },
+      {
+        "themeId": 33,
+        "themeName": "Blundell rooms"
+      }
+    ],
+    "mediaItems": [
+      {
+        "mediaItemId": 1,
+        "caption": "Stoneware canisters.",
+        "credit": "National Capital Authority",
+        "altText": "Stoneware canisters.",
+        "url": "assets/media/blundells_canisters_3_small.jpg",
+        "thumbnailUrl": "assets/media/blundells_canisters_3_small_thumb.jpg",
+        "type": "image"
+      }
+    ]
+  },
+  {
+    "nodeId": 103,
+    "lon": 3583,
+    "lat": 1146,
+    "title": "Lamp",
+    "description": "<p>Kerosene lamps were the most popular form of lighting in working class households in the 19th century because they were more economical and produced more light than candles. The glass still needed to be cleaned daily and the wick trimmed to ensure minimal smoke and maximum light. Can you find a form of light in every room? How have lights changed over time?</p>",
+    "thumbnailUrl": "assets/media/blundells_lamp_4_small_thumb.jpg",
+    "themes": [
+      {
+        "themeId": 1,
+        "themeName": "family ties"
+      },
+      {
+        "themeId": 33,
+        "themeName": "Blundell rooms"
+      }
+    ],
+    "mediaItems": [
+      {
+        "mediaItemId": 1,
+        "caption": "Kerosene lamp.",
+        "credit": "National Capital Authority",
+        "altText": "Kerosene lamp.",
+        "url": "assets/media/blundells_lamp_4_small.jpg",
+        "thumbnailUrl": "assets/media/blundells_lamp_4_small_thumb.jpg",
+        "type": "image"
+      }
+    ]
+  },
+  {
+    "nodeId": 104,
+    "lon": 3296,
+    "lat": 1444,
+    "title": "Meat Platter",
+    "description": "<p>This meat platter was a wedding gift from Mrs George Campbell of Duntroon in 1893 for Sarah Winter of Red Hill when she married Samuel Schumack. It is of the famous Willow pattern design and the depression in the platter is to collect the juices when the meat is carved.</p>",
+    "thumbnailUrl": "assets/media/blundells_meat_plate_small_thumb.jpg",
+    "themes": [
+      {
+        "themeId": 1,
+        "themeName": "family ties"
+      },
+      {
+        "themeId": 15,
+        "themeName": "a growing population"
+      },
+      {
+        "themeId": 33,
+        "themeName": "Blundell rooms"
+      }
+    ],
+    "mediaItems": [
+      {
+        "mediaItemId": 1,
+        "caption": "Meat platter.",
+        "credit": "National Capital Authority",
+        "altText": "Meat platter.",
+        "url": "assets/media/blundells_meat_plate_small.jpg",
+        "thumbnailUrl": "assets/media/blundells_meat_plate_small_thumb.jpg",
+        "type": "image"
+      }
+    ]
+  },
+  {
+    "nodeId": 105,
+    "lon": 2223,
+    "lat": 1322,
+    "title": "Washboard",
+    "description": "<p>Once an article to be washed was wet and soaped, it was then rubbed across the ridges in the metal section of this board to help loosen dirt and stains. This was considered a labour-saving device as it was easier than just rubbing the fabric against itself with your hands. Imagine how much washing had to be done with eight children in the house!</p>",
+    "thumbnailUrl": "assets/media/blundells_washerboard_small_thumb.jpg",
+    "themes": [
+      {
+        "themeId": 3,
+        "themeName": "women's work"
+      },
+      {
+        "themeId": 2,
+        "themeName": "technology"
+      },
+      {
+        "themeId": 15,
+        "themeName": "a growing population"
+      },
+      {
+        "themeId": 33,
+        "themeName": "Blundell rooms"
+      }
+    ],
+    "mediaItems": [
+      {
+        "mediaItemId": 1,
+        "caption": "Washboard.",
+        "credit": "National Capital Authority",
+        "altText": "Washboard.",
+        "url": "assets/media/blundells_washerboard_small.jpg",
+        "thumbnailUrl": "assets/media/blundells_washerboard_small_thumb.jpg",
+        "type": "image"
+      }
+    ]
+  },
+  {
+    "nodeId": 106,
+    "lon": 2618,
+    "lat": 2568,
+    "title": "Hammocks",
+    "description": "<p>Hammocks were popular in the 19th and 20th centuries because they were more affordable than beds and they also took up less room. The Blundell boys, who slept in the shed, packed away their hammocks everyday so the space could be used for other purposes.</p> ",
+    "thumbnailUrl": "assets/media/blundells_hammocks_small_thumb.jpg",
+    "themes": [
+      {
+        "themeId": 1,
+        "themeName": "family ties"
+      },
+      {
+        "themeId": 15,
+        "themeName": "a growing population"
+      },
+      {
+        "themeId": 16,
+        "themeName": "a child's life"
+      },
+      {
+        "themeId": 33,
+        "themeName": "Blundell rooms"
+      }
+    ],
+    "mediaItems": [
+      {
+        "mediaItemId": 1,
+        "caption": "Hammock.",
+        "credit": "National Capital Authority",
+        "altText": "Hammock.",
+        "url": "assets/media/blundells_hammocks_small.jpg",
+        "thumbnailUrl": "assets/media/blundells_hammocks_small_thumb.jpg",
+        "type": "image"
+      },
+      {
+        "mediaItemId": 2,
+        "caption": "A young boy in period dress up from the Blundell era, 1963.",
+        "credit": "Canberra and District Historical Society Collection photograph 2175",
+        "altText": "A young boy in period dress up from the Blundell era, 1963.",
+        "url": "assets/media/4_young_boy_CDHS_photo_2175_edit.jpg",
+        "thumbnailUrl": "assets/media/4_young_boy_CDHS_photo_2175_thumb.jpg",
+        "type": "image"
+      }
+    ]
+  },
+  {
+    "nodeId": 107,
+    "lon": 3000,
+    "lat": 3149,
+    "title": "Bush Carpentry - Kerosene Cabinet",
+    "description": "<p>Empty kerosene, oil and biscuit tins were recycled into useful pieces of furniture through the late 19th and early 20th centuries. Some were a simple re-use as a container and others, such as these drawers, were complete pieces of furniture. Some were fancy, like the kindling bin in the next room, but most were made over into needed items as quickly as possible: buckets, watering cans and even shovels.</p>",
+    "thumbnailUrl": "assets/media/blundells_kerosene_cabinet_small_thumb.jpg",
+    "themes": [
+      {
+        "themeId": 13,
+        "themeName": "subsistence"
+      },
+      {
+        "themeId": 4,
+        "themeName": "make do and mend"
+      },
+      {
+        "themeId": 12,
+        "themeName": "sustainability"
+      },
+      {
+        "themeId": 33,
+        "themeName": "Blundell rooms"
+      }
+    ],
+    "mediaItems": [
+      {
+        "mediaItemId": 1,
+        "caption": "Kerosene cabinet.",
+        "credit": "National Capital Authority",
+        "altText": "Kerosene cabinet.",
+        "url": "assets/media/blundells_kerosene_cabinet_small.jpg",
+        "thumbnailUrl": "assets/media/blundells_kerosene_cabinet_small_thumb.jpg",
+        "type": "image"
+      }
+    ]
+  },
+  {
+    "nodeId": 108,
+    "lon": 2186,
+    "lat": 2433,
+    "title": "Bush Carpentry - Writing Desk",
+    "description": "<p>This standing desk was made for Walter Ginn by one of the Blundell family and is made out of packing crates and other recycled timber.</p> ",
+    "thumbnailUrl": "assets/media/blundells_writing_desk_small_thumb.jpg",
+    "themes": [
+      {
+        "themeId": 4,
+        "themeName": "make do and mend"
+      },
+      {
+        "themeId": 12,
+        "themeName": "sustainability"
+      },
+      {
+        "themeId": 33,
+        "themeName": "Blundell rooms"
+      }
+    ],
+    "mediaItems": [
+      {
+        "mediaItemId": 1,
+        "caption": "Blundell standing desk.",
+        "credit": "National Capital Authority",
+        "altText": "Blundell standing desk.",
+        "url": "assets/media/blundells_writing_desk_small.jpg",
+        "thumbnailUrl": "assets/media/blundells_writing_desk_small_thumb.jpg",
+        "type": "image"
+      }
+    ]
+  },
+  {
+    "nodeId": 109,
+    "lon": 3361,
+    "lat": 2073,
+    "title": "Swag Chair",
+    "description": "<p>This would have been a very useful piece of kit for George Blundell. As bullock driver for the Duntroon Estate he was often on the road, as the round trip to Sydney took six weeks. This chair folds out into a camp bed and, with the addition of a grass or straw-filled palliasse (a thin mattress), would have been a reasonably comfortable bed.</p>",
+    "thumbnailUrl": "assets/media/blundells_swag_chair_small_thumb.jpg",
+    "themes": [
+      {
+        "themeId": 17,
+        "themeName": "farming the plains"
+      },
+      {
+        "themeId": 28,
+        "themeName": "a changing landscape"
+      },
+      {
+        "themeId": 33,
+        "themeName": "Blundell rooms"
+      }
+    ],
+    "mediaItems": [
+      {
+        "mediaItemId": 1,
+        "caption": "Folding chair/stretcher.",
+        "credit": "National Capital Authority",
+        "altText": "Folding chair/stretcher.",
+        "url": "assets/media/blundells_swag_chair_small.jpg",
+        "thumbnailUrl": "assets/media/blundells_swag_chair_small_thumb.jpg",
+        "type": "image"
+      },
+      {
+        "mediaItemId": 2,
+        "caption": "Blundell bullock team with lead bullocks Smut and Smiler. Charles Frederick Blundell in charge.",
+        "credit": "Canberra and District Historical Society Collection photograph 4840",
+        "altText": "Blundell bullock team with lead bullocks Smut and Smiler. Charles Frederick Blundell in charge.",
+        "url": "assets/media/6_Blundell-Bullock-photo-CDHS-photograph-4840-edit.jpg",
+        "thumbnailUrl": "assets/media/6_Blundell_Bullock_photo_CDHS_photograph_4840_thumb.jpg",
+        "type": "image"
+      }
+    ]
+  },
+  {
+    "nodeId": 110,
+    "lon": 2115,
+    "lat": 1022,
+    "title": "Gunny Sack and Apron",
+    "description": "<p>Flora Blundell was born in 1845 and was a Scottish immigrant to Australia. She was the local midwife in the area and would ride on her tall grey horse to women in need. Flora would have had a midwifery kit (in a gunny sack slung across the pommel of her horse) consisting of a clean apron and rudimentary medical equipment. Imagine the change in the landscape she would have experienced as she rode her horse, during her decades in the Cottage.</p>",
+    "thumbnailUrl": "assets/media/blundells_sack_apron_small_thumb.jpg",
+    "themes": [
+      {
+        "themeId": 3,
+        "themeName": "women's work"
+      },
+      {
+        "themeId": 1,
+        "themeName": "family ties"
+      },
+      {
+        "themeId": 15,
+        "themeName": "a growing population"
+      },
+      {
+        "themeId": 33,
+        "themeName": "Blundell rooms"
+      }
+    ],
+    "mediaItems": [
+      {
+        "mediaItemId": 1,
+        "caption": "Midwifery kit.",
+        "credit": "National Capital Authority",
+        "altText": "Midwifery kit.",
+        "url": "assets/media/blundells_sack_apron_small.jpg",
+        "thumbnailUrl": "assets/media/blundells_sack_apron_small_thumb.jpg",
+        "type": "image"
+      },
+      {
+        "nodeId": 111,
+        "lon": 2956,
+        "lat": 593,
+        "title": "Fireplace",
+        "description": "<p>In 1888, the Blundell family constructed this slab shed to accommodate their growing family. In this year, their last and eighth child was born. A fabric analysis report from 2017 states that there would have been two rooms in the shed, accommodating a bedroom for some of the children, and a kitchen with a fireplace. Why isn't the fireplace visible onsite anymore? The fireplace is believed to have collapsed in 1962 and replaced with timber slats in 1968.</p>",
+        "thumbnailUrl": "assets/media/img_placeholder.png",
+        "themes": [
+          {
+            "themeId": 29,
+            "themeName": "growing families"
+          },
+          {
+            "themeId": 33,
+            "themeName": "Blundell rooms"
+          }
+        ],
+        "mediaItems": [
+          {
+            "mediaItemId": 1,
+            "caption": "Fireplace.",
+            "credit": "National Capital Authority",
+            "altText": "Fireplace.",
+            "url": "assets/media/img_placeholder.png",
+            "thumbnailUrl": "assets/media/img_placeholder.png",
+            "type": "image"
+          },
+          {
+            "mediaItemId": 2,
+            "caption": "Slab shed and main dwelling plan. The red circles indicate sections of wall that would have been reconstructed in 1968.",
+            "credit": "Blundells Cottage Slab Shed Fabric Analysis, Pip Giovanelli, 2017",
+            "altText": "Slab shed and main dwelling plan. The red circles indicate sections of wall that would have been reconstructed in 1968.",
+            "url": "assets/media/Slab_shed_picture.jpg",
+            "thumbnailUrl": "assets/media/Slab_shed_picture_thumb.jpg",
+            "type": "image"
+          }
+        ]
+      }
+    ]
+  }
+]
