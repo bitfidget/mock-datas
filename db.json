@@ -1905,7 +1905,7 @@
         "lat": 1609,
         "title": "Honey",
         "description": "<p>George Blundell kept beehives in the paddock next to the Cottage and used the room which is now displayed as Alice Oldfield's kitchen to extract the honey. After the caps had been sliced off, the combs would be placed in muslin or mosquito net bags and hung from a hook in the exposed rafter over a pan to allow the honey to slowly run out.</p>",
-        "thumbnailUrl": "assets/media/media/blundells_honey_small_thumb.jpg",
+        "thumbnailUrl": "assets/media/blundells_honey_small_thumb.jpg",
         "themes": [
           {
             "themeId": 13,
@@ -2323,44 +2323,44 @@
             "url": "assets/media/blundells_sack_apron_small.jpg",
             "thumbnailUrl": "assets/media/blundells_sack_apron_small_thumb.jpg",
             "type": "image"
+          }
+        ]
+      },
+      {
+        "nodeId": 111,
+        "lon": 2956,
+        "lat": 593,
+        "title": "Fireplace",
+        "description": "<p>In 1888, the Blundell family constructed this slab shed to accommodate their growing family. In this year, their last and eighth child was born. A fabric analysis report from 2017 states that there would have been two rooms in the shed, accommodating a bedroom for some of the children, and a kitchen with a fireplace. Why isn't the fireplace visible onsite anymore? The fireplace is believed to have collapsed in 1962 and replaced with timber slats in 1968.</p>",
+        "thumbnailUrl": "assets/media/img_placeholder.png",
+        "themes": [
+          {
+            "themeId": 29,
+            "themeName": "growing families"
           },
           {
-            "nodeId": 111,
-            "lon": 2956,
-            "lat": 593,
-            "title": "Fireplace",
-            "description": "<p>In 1888, the Blundell family constructed this slab shed to accommodate their growing family. In this year, their last and eighth child was born. A fabric analysis report from 2017 states that there would have been two rooms in the shed, accommodating a bedroom for some of the children, and a kitchen with a fireplace. Why isn't the fireplace visible onsite anymore? The fireplace is believed to have collapsed in 1962 and replaced with timber slats in 1968.</p>",
+            "themeId": 33,
+            "themeName": "Blundell rooms"
+          }
+        ],
+        "mediaItems": [
+          {
+            "mediaItemId": 1,
+            "caption": "Fireplace.",
+            "credit": "National Capital Authority",
+            "altText": "Fireplace.",
+            "url": "assets/media/img_placeholder.png",
             "thumbnailUrl": "assets/media/img_placeholder.png",
-            "themes": [
-              {
-                "themeId": 29,
-                "themeName": "growing families"
-              },
-              {
-                "themeId": 33,
-                "themeName": "Blundell rooms"
-              }
-            ],
-            "mediaItems": [
-              {
-                "mediaItemId": 1,
-                "caption": "Fireplace.",
-                "credit": "National Capital Authority",
-                "altText": "Fireplace.",
-                "url": "assets/media/img_placeholder.png",
-                "thumbnailUrl": "assets/media/img_placeholder.png",
-                "type": "image"
-              },
-              {
-                "mediaItemId": 2,
-                "caption": "Slab shed and main dwelling plan. The red circles indicate sections of wall that would have been reconstructed in 1968.",
-                "credit": "Blundells Cottage Slab Shed Fabric Analysis, Pip Giovanelli, 2017",
-                "altText": "Slab shed and main dwelling plan. The red circles indicate sections of wall that would have been reconstructed in 1968.",
-                "url": "assets/media/Slab_shed_picture.jpg",
-                "thumbnailUrl": "assets/media/Slab_shed_picture_thumb.jpg",
-                "type": "image"
-              }
-            ]
+            "type": "image"
+          },
+          {
+            "mediaItemId": 2,
+            "caption": "Slab shed and main dwelling plan. The red circles indicate sections of wall that would have been reconstructed in 1968.",
+            "credit": "Blundells Cottage Slab Shed Fabric Analysis, Pip Giovanelli, 2017",
+            "altText": "Slab shed and main dwelling plan. The red circles indicate sections of wall that would have been reconstructed in 1968.",
+            "url": "assets/media/Slab_shed_picture.jpg",
+            "thumbnailUrl": "assets/media/Slab_shed_picture_thumb.jpg",
+            "type": "image"
           }
         ]
       },
@@ -4063,7 +4063,7 @@
           "lat": 1609,
           "title": "Honey",
           "description": "<p>George Blundell kept beehives in the paddock next to the Cottage and used the room which is now displayed as Alice Oldfield's kitchen to extract the honey. After the caps had been sliced off, the combs would be placed in muslin or mosquito net bags and hung from a hook in the exposed rafter over a pan to allow the honey to slowly run out.</p>",
-          "thumbnailUrl": "assets/media/media/blundells_honey_small_thumb.jpg",
+          "thumbnailUrl": "assets/media/blundells_honey_small_thumb.jpg",
           "themes": [
             {
               "themeId": 13,
@@ -4481,44 +4481,44 @@
               "url": "assets/media/blundells_sack_apron_small.jpg",
               "thumbnailUrl": "assets/media/blundells_sack_apron_small_thumb.jpg",
               "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 111,
+          "lon": 2956,
+          "lat": 593,
+          "title": "Fireplace",
+          "description": "<p>In 1888, the Blundell family constructed this slab shed to accommodate their growing family. In this year, their last and eighth child was born. A fabric analysis report from 2017 states that there would have been two rooms in the shed, accommodating a bedroom for some of the children, and a kitchen with a fireplace. Why isn't the fireplace visible onsite anymore? The fireplace is believed to have collapsed in 1962 and replaced with timber slats in 1968.</p>",
+          "thumbnailUrl": "assets/media/img_placeholder.png",
+          "themes": [
+            {
+              "themeId": 29,
+              "themeName": "growing families"
             },
             {
-              "nodeId": 111,
-              "lon": 2956,
-              "lat": 593,
-              "title": "Fireplace",
-              "description": "<p>In 1888, the Blundell family constructed this slab shed to accommodate their growing family. In this year, their last and eighth child was born. A fabric analysis report from 2017 states that there would have been two rooms in the shed, accommodating a bedroom for some of the children, and a kitchen with a fireplace. Why isn't the fireplace visible onsite anymore? The fireplace is believed to have collapsed in 1962 and replaced with timber slats in 1968.</p>",
+              "themeId": 33,
+              "themeName": "Blundell rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Fireplace.",
+              "credit": "National Capital Authority",
+              "altText": "Fireplace.",
+              "url": "assets/media/img_placeholder.png",
               "thumbnailUrl": "assets/media/img_placeholder.png",
-              "themes": [
-                {
-                  "themeId": 29,
-                  "themeName": "growing families"
-                },
-                {
-                  "themeId": 33,
-                  "themeName": "Blundell rooms"
-                }
-              ],
-              "mediaItems": [
-                {
-                  "mediaItemId": 1,
-                  "caption": "Fireplace.",
-                  "credit": "National Capital Authority",
-                  "altText": "Fireplace.",
-                  "url": "assets/media/img_placeholder.png",
-                  "thumbnailUrl": "assets/media/img_placeholder.png",
-                  "type": "image"
-                },
-                {
-                  "mediaItemId": 2,
-                  "caption": "Slab shed and main dwelling plan. The red circles indicate sections of wall that would have been reconstructed in 1968.",
-                  "credit": "Blundells Cottage Slab Shed Fabric Analysis, Pip Giovanelli, 2017",
-                  "altText": "Slab shed and main dwelling plan. The red circles indicate sections of wall that would have been reconstructed in 1968.",
-                  "url": "assets/media/Slab_shed_picture.jpg",
-                  "thumbnailUrl": "assets/media/Slab_shed_picture_thumb.jpg",
-                  "type": "image"
-                }
-              ]
+              "type": "image"
+            },
+            {
+              "mediaItemId": 2,
+              "caption": "Slab shed and main dwelling plan. The red circles indicate sections of wall that would have been reconstructed in 1968.",
+              "credit": "Blundells Cottage Slab Shed Fabric Analysis, Pip Giovanelli, 2017",
+              "altText": "Slab shed and main dwelling plan. The red circles indicate sections of wall that would have been reconstructed in 1968.",
+              "url": "assets/media/Slab_shed_picture.jpg",
+              "thumbnailUrl": "assets/media/Slab_shed_picture_thumb.jpg",
+              "type": "image"
             }
           ]
         }
@@ -5744,7 +5744,7 @@
     }
   ],
   "about": {
-    "text": "<h1>About the Cottage</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit.</p>\n\n<h2>Opening times</h2>\n\n<p>10am–2pm every Saturday\n<br>Thursdays or Fridays (by arrangement) for school and group programs only</p>\n\n<h2>Location</h2>\n\n<p>Blundells Cottage, Wendouree Drive, Parkes, ACT 2600</p>\n\n<h2>Contact</h2>\n\n<p>Phone: 02 6272 2902 \n<br>Email: <a href=\"mailto:nce@nca.gov.au\">nce@nca.gov.au</a></p>\n\n<h2>Bookings</h2>\n\n<p>Bookings can be made at: <a href=\"https://www.nca.gov.au/discover-and-learn/book-program\" target=\"_blank\">https://www.nca.gov.au/discover-and-learn/book-program</a></p>\n\n\n<h2>Heritage</h2>\n\n<p>Content to be confirmed</p>\n\n<h2>Education</h2>\n\n<p>Education kits, linked to the National Curriculum, are available for all ages at: <a href=\"https://www.nca.gov.au/discover-and-learn/book-program\" target=\"_blank\">https://www.nca.gov.au/discover-and-learn/education-resources</a></p>\n\n<p>Facebook: <a href=\"https://www.facebook.com/NCA.gov/\" target=\"_blank\">nca.gov</a>\n<br>Twitter: <a href=\"https://twitter.com/nca_media\" target=\"_blank\">@nca_media</a>\n<br>Instagram: <a href=\"https://www.instagram.com/nca_gov_au/\" target=\"_blank\">nca.gov</a>\n<br>Youtube: <a href=\"https://www.youtube.com/channel/UChhbRYkJoFNub6RBlO3X6ZA target=\"_blank\"\">nca.gov</a></p>",
+    "text": "<h1>About the Cottage</h1>\n\n<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit.</p>\n\n<h2>Opening times</h2>\n\n<p>10am–2pm every Saturday\n<br>Thursdays or Fridays (by arrangement) for school and group programs only</p>\n\n<h2>Location</h2>\n\n<p>Blundells Cottage, Wendouree Drive, Parkes, ACT 2600</p>\n\n<h2>Contact</h2>\n\n<p>Phone: 02 6272 2902 \n<br>Email: <a href=\"mailto:nce@nca.gov.au\">nce@nca.gov.au</a></p>\n\n<h2>Bookings</h2>\n\n<p>Bookings can be made at: <a href=\"https://www.nca.gov.au/discover-and-learn/book-program\" target=\"_blank\">https://www.nca.gov.au/discover-and-learn/book-program</a></p>\n\n\n<h2>Heritage</h2>\n\n<p>Content to be confirmed</p>\n\n<h2>Education</h2>\n\n<p>Education kits, linked to the National Curriculum, are available for all ages at: <a href=\"https://www.nca.gov.au/discover-and-learn/book-program\" target=\"_blank\">https://www.nca.gov.au/discover-and-learn/education-resources</a></p>\n\n<p>Facebook: <a href=\"https://www.facebook.com/NCA.gov/\" target=\"_blank\">nca.gov</a>\n<br>Twitter: <a href=\"https://twitter.com/nca_media\" target=\"_blank\">@nca_media</a>\n<br>Instagram: <a href=\"https://www.instagram.com/nca_gov_au/\" target=\"_blank\">nca.gov</a>\n<br>Youtube: <a href=\"https://www.youtube.com/channel/UChhbRYkJoFNub6RBlO3X6ZA target=\"_blank\">nca.gov</a></p>",
     "mediaItems": [
       {
         "mediaItemId": 1,
@@ -5760,7 +5760,7 @@
   "visit": {
     "title": "Visit the Cottage",
     "intro": "The front of Blundells Cottage. Source: NCA, Eric Sierins",
-    "text": "<h2>Opening times</h2>\n\n<p>10am–2pm every Saturday\n<br>Thursdays or Fridays (by arrangement) for school and group programs only</p>\n\n<h2>Location</h2>\n\n<p>Blundells Cottage, Wendouree Drive, Parkes, ACT 2600</p>\n\n<p><a href=\"https://www.google.com.au/maps/place/Blundells+Cottage/@-35.2928483,149.1395438,17z/data=!4m12!1m6!3m5!1s0x6b164d0ce7f9e5f3:0xb97f3e6ba5ba1b81!2sBlundells+Cottage!8m2!3d-35.2928483!4d149.1417325!3m4!1s0x6b164d0ce7f9e5f3:0xb97f3e6ba5ba1b81!8m2!3d-35.2928483!4d149.1417325\" target=\"_blank\">View on Google Maps</a></p>\n\n<h2>Contact</h2>\n<p>Phone: 02 6272 2902\n<br>Email: <a href=\"mailto:nce@nca.gov.au>nce@nca.gov.au</a></p>\n\n<p>Facebook: <a href=\"https://www.facebook.com/NCA.gov/\" target=\\\"_blank\">nca.gov</a>\n<br>Twitter: <a href=\"https://twitter.com/nca_media\" target=\"_blank\">@nca_media</a>\n<br>Instagram: <a href=\\\"https://www.instagram.com/nca_gov_au/\"\" target=\"_blank\">nca.gov</a>\n<br>Youtube: <a href=\"https://www.youtube.com/channel/UChhbRYkJoFNub6RBlO3X6ZA target=\"_blank\\\"\\\">nca.gov</a></p>\n\n<h2>Bookings</h2>\n<p>Bookings can be made at: <a href=\\\"https://www.nca.gov.au/discover-and-learn/book-program\" target=\"_blank\">https://www.nca.gov.au/discover-and-learn/book-program</a></p>\n\n<h2>Education</h2>\n\n<p>Education kits, linked to the National Curriculum, are available for all ages at: <a href=\"https://www.nca.gov.au/discover-and-learn/education-resources\" target=\"_blank\">https://www.nca.gov.au/discover-and-learn/education-resources</a></p>"
+    "text": "<h2>Opening times</h2>\n\n<p>10am–2pm every Saturday\n<br>Thursdays or Fridays (by arrangement) for school and group programs only</p>\n\n<h2>Location</h2>\n\n<p>Blundells Cottage, Wendouree Drive, Parkes, ACT 2600</p>\n\n<p><a href=\"https://www.google.com.au/maps/place/Blundells+Cottage/@-35.2928483,149.1395438,17z/data=!4m12!1m6!3m5!1s0x6b164d0ce7f9e5f3:0xb97f3e6ba5ba1b81!2sBlundells+Cottage!8m2!3d-35.2928483!4d149.1417325!3m4!1s0x6b164d0ce7f9e5f3:0xb97f3e6ba5ba1b81!8m2!3d-35.2928483!4d149.1417325\" target=\"_blank\">View on Google Maps</a></p>\n\n<h2>Contact</h2>\n<p>Phone: 02 6272 2902\n<br>Email: <a href=\"mailto:nce@nca.gov.au\">nce@nca.gov.au</a></p>\n\n<p>Facebook: <a href=\"https://www.facebook.com/NCA.gov/\" target=\"_blank\">nca.gov</a>\n<br>Twitter: <a href=\"https://twitter.com/nca_media\" target=\"_blank\">@nca_media</a>\n<br>Instagram: <a href=\"https://www.instagram.com/nca_gov_au/\" target=\"_blank\">nca.gov</a>\n<br>Youtube: <a href=\"https://www.youtube.com/channel/UChhbRYkJoFNub6RBlO3X6ZA\" target=\"_blank\">nca.gov</a></p>\n\n<h2>Bookings</h2>\n<p>Bookings can be made at: <a href=\"https://www.nca.gov.au/discover-and-learn/book-program\" target=\"_blank\">https://www.nca.gov.au/discover-and-learn/book-program</a></p>\n\n<h2>Education</h2>\n\n<p>Education kits, linked to the National Curriculum, are available for all ages at: <a href=\"https://www.nca.gov.au/discover-and-learn/education-resources\" target=\"_blank\">https://www.nca.gov.au/discover-and-learn/education-resources</a></p>"
   },
   "heritage": {
     "title": "Heritage Values",
