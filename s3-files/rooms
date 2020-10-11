@@ -3,32 +3,41 @@
     "roomId": 1,
     "lon": 3054,
     "lat": 1653,
-    "title": "Ginn Rooms",
+    "title": "1. Ginn Rooms",
     "description": "<p>William and Mary Ginn and their three children, Walter, Henry and Agnes were the first family to move into the Cottage in about 1860. The Ginns migrated to Australia from England aboard the <i>Alfred</i> in 1857 in search of a better life. William was employed by the Duntroon Estate as the head ploughman and Mary, unlike other wives of workers on the Duntroon Estate, was not employed outside her home. These two rooms are part of the original four-roomed cottage completed in 1860. Can you find what kind of light source the Ginn family may have used in the room before electricity? How did they store their food? How would the Ginn family have mended their clothes? Look out for these kinds of items in the other rooms too, as we travel through time and explore the lives of the families who occupied this Cottage for over 100 years.</p>",
     "years": "1860–1874",
     "tagline": "Explore the Ginn Rooms",
     "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/1_Photo_of_Gertrude_and_Agnes_CDHS_Photo_345_thumb.jpg",
-    "menuImgUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/room_plan_ginn_mobile.png",
+    "menuImgUrl": "room_plan_ginn_mobile.png",
     "mediaItems": [
-	      {
-	        "mediaItemId": 1,
-	        "caption": "Gertrude (standing) and Agnes, daughters of William and Mary Ginn.",
-	        "credit": "Photo courtesy of the Canberra District Historical Society, photograph 345",
-	        "altText": "Gertrude (standing) and Agnes, daughters of William and Mary Ginn.",
-	        "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/1_Photo_of_Gertrude_and_Agnes_CDHS_Photo_345_edit.jpg",
-	        "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/1_Photo_of_Gertrude_and_Agnes_CDHS_Photo_345_thumb.jpg",
-	        "type": "image"
-	      },
-	      {
-	        "mediaItemId": 2,
-	        "caption": "The Ginn Rooms at Blundells Cottage.",
-	        "credit": "National Capital Authority",
-	        "altText": "The Ginn Rooms at Blundells Cottage.",
-	        "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/ginn_room_edit_2.jpg",
-	        "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/ginn_room_thumbnail_2.jpg",
-	        "type": "image"
-	      }
-	    ],
+      {
+        "mediaItemId": 1,
+        "caption": "Gertrude (standing) and Agnes, daughters of William and Mary Ginn.",
+        "credit": "Photo courtesy of the Canberra District Historical Society, photograph 345",
+        "altText": "Gertrude (standing) and Agnes, daughters of William and Mary Ginn.",
+        "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/1_Photo_of_Gertrude_and_Agnes_CDHS_Photo_345_edit.jpg",
+        "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/1_Photo_of_Gertrude_and_Agnes_CDHS_Photo_345_thumb.jpg",
+        "type": "image"
+      },
+      {
+        "mediaItemId": 2,
+        "caption": "The Ginn parlour at Blundells Cottage.",
+        "credit": "National Capital Authority, Martin Ollman",
+        "altText": "The Ginn parlour at Blundells Cottage.",
+        "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/NCA_Blundells_Cottage_Internal_shot_Martin_Ollman_2017_001.jpg",
+        "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/NCA_Blundells_Cottage_Internal_shot_Martin_Ollman_2017_001_thumb.jpg",
+        "type": "image"
+      },
+      {
+        "mediaItemId": 3,
+        "caption": "The Ginn bedroom at Blundells Cottage.",
+        "credit": "National Capital Authority, Martin Ollman",
+        "altText": "The Ginn bedroom at Blundells Cottage.",
+        "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/ginn_room_edit_2.jpg",
+        "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/ginn_room_thumbnail_2.jpg",
+        "type": "image"
+      }
+    ],
     "poiNodes": [
       {
         "nodeId": 50,
@@ -329,7 +338,7 @@
         "lon": 1522,
         "lat": 2088,
         "title": "Bed",
-        "description": "<p>This is the original bed that the Ginn family brought with them from England to Australia. It would have been stowed away on their ship, <i>The Alfred</i>. Large trunks used to store their belongings during the voyage were then used as bed bases for the children, with straw-filled palliases and bedding placed on top. Have you ever travelled far from home? Journeys can be accompanied by feelings of apprehension, excitement, fear and sadness.</p>",
+        "description": "<p>This is the original bed that the Ginn family brought with them from England to Australia. It would have been stowed away on their ship, <i>The Alfred</i> on their voyage in 1857. Large trunks used to store their belongings during the voyage were then used as bed bases for the children, with straw-filled palliases and bedding placed on top. Have you ever travelled far from home? Journeys can be accompanied by feelings of apprehension, excitement, fear and sadness.</p>",
         "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_bed_small_thumb.jpg",
         "themes": [
           {
@@ -528,12 +537,12 @@
     "roomId": 2,
     "lon": 2379,
     "lat": 1882,
-    "title": "Blundell Rooms",
+    "title": "2. Blundell Rooms",
     "description": "<p>George and Flora Blundell, the second occupants of Blundells Cottage, moved in as newlyweds in 1874. George was a bullock driver for the Duntroon Estate and Flora was the local midwife. They raised eight children in the Cottage and had to build this slab shed in 1888 to accommodate them all. How did the Blundells light this space without electricity and how does it compare to other light sources in the Cottage used by families in different time periods? Families in the 1800s would ‘Make Do and Mend’ rather than buying new. What items in this room are recycled?</p>",
     "years": "1874–1933",
     "tagline": "Explore the Blundell Rooms",
     "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/1_Flora_Blundell_Source_NCA_thumb.jpg",
-    "menuImgUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/room_plan_blundell_mobile.png",
+    "menuImgUrl": "room_plan_blundell_mobile.png",
     "mediaItems": [
       {
         "mediaItemId": 1,
@@ -546,9 +555,18 @@
       },
       {
         "mediaItemId": 2,
-        "caption": "The Blundell Rooms at Blundells Cottage.",
-        "credit": "National Capital Authority",
-        "altText": "The Blundell Rooms at Blundells Cottage.",
+        "caption": "The first Blundell room in the slab shed.",
+        "credit": "National Capital Authority, Martin Ollman",
+        "altText": "The first Blundell room in the slab shed.",
+        "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/NCA_Blundells Cottage_Martin Ollman_810_7468.jpg",
+        "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/NCA_Blundells Cottage_Martin Ollman_810_7468_thumb.jpg",
+        "type": "image"
+      },
+      {
+        "mediaItemId": 3,
+        "caption": "The second Blundell room in the slab shed.",
+        "credit": "National Capital Authority, Eric Sierins",
+        "altText": "The second Blundell room in the slab shed.",
         "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundell_room_edit_2.jpg",
         "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundell_room_thumbnail_2.jpg",
         "type": "image"
@@ -561,7 +579,7 @@
         "lat": 1609,
         "title": "Honey",
         "description": "<p>George Blundell kept beehives in the paddock next to the Cottage and used the room which is now displayed as Alice Oldfield's kitchen to extract the honey. After the caps had been sliced off, the combs would be placed in muslin or mosquito net bags and hung from a hook in the exposed rafter over a pan to allow the honey to slowly run out.</p>",
-        "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/media/blundells_honey_small_thumb.jpg",
+        "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_honey_small_thumb.jpg",
         "themes": [
           {
             "themeId": 13,
@@ -605,7 +623,7 @@
         "lon": 2794,
         "lat": 1236,
         "title": "Sewing Kit and Sewing Machine",
-        "description": "<p>With eight children and an important role as the local midwife, there is no doubt Flora Blundell would have relied on her oldest daughter to make clothes for the family. The invention, and subsequent widespread availability, of the sewing machine would have been very welcome.</p>",
+        "description": "<p>With eight children and an important role as the local midwife, there is no doubt Flora Blundell would have relied on her oldest daughter to make clothes for the family. The invention, and subsequent widespread availability, of the sewing machine in this era was very welcome.</p>",
         "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_sewing_machine_small_thumb.jpg",
         "themes": [
           {
@@ -645,14 +663,14 @@
             "type": "image"
           },
           {
-      			"mediaItemId": 3,
-      			"caption": "Left, Sarah Blundell (wife of Fred Blundell) and her sisters-in-law, Alice (born 1885) and Ada (born 1883) Blundell. Fred, Ada and Alice were the children of George and Flora Blundell.",
-      			"credit": "CDHS Collection, Photograph 2314",
-      			"altText": "Left, Sarah Blundell (wife of Fred Blundell) and her sisters-in-law, Alice (born 1885) and Ada (born 1883) Blundell. Fred, Ada and Alice were the children of George and Flora Blundell.",
-      			"url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/3_Blundell_Girls_CDHS_photo_2314_edit.jpg",
-      			"thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/3_Blundell_Girls_CDHS_photo_2314_thumb.jpg",
-      			"type": "image"
-}
+            "mediaItemId": 3,
+            "caption": "Left, Sarah Blundell (wife of Fred Blundell) and her sisters-in-law, Alice (born 1885) and Ada (born 1883) Blundell. Fred, Ada and Alice were the children of George and Flora Blundell.",
+            "credit": "CDHS Collection, Photograph 2314",
+            "altText": "Left, Sarah Blundell (wife of Fred Blundell) and her sisters-in-law, Alice (born 1885) and Ada (born 1883) Blundell. Fred, Ada and Alice were the children of George and Flora Blundell.",
+            "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/3_Blundell_Girls_CDHS_photo_2314_edit.jpg",
+            "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/3_Blundell_Girls_CDHS_photo_2314_thumb.jpg",
+            "type": "image"
+          }
         ]
       },
       {
@@ -979,14 +997,16 @@
             "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_sack_apron_small.jpg",
             "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_sack_apron_small_thumb.jpg",
             "type": "image"
-          },
-          {
+          }
+        ]
+      },
+      {
         "nodeId": 111,
         "lon": 2956,
         "lat": 593,
         "title": "Fireplace",
         "description": "<p>In 1888, the Blundell family constructed this slab shed to accommodate their growing family. In this year, their last and eighth child was born. A fabric analysis report from 2017 states that there would have been two rooms in the shed, accommodating a bedroom for some of the children, and a kitchen with a fireplace. Why isn't the fireplace visible onsite anymore? The fireplace is believed to have collapsed in 1962 and replaced with timber slats in 1968.</p>",
-        "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/img_placeholder.png",
+        "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_fireplace_small_thumb.jpg",
         "themes": [
           {
             "themeId": 29,
@@ -1000,11 +1020,11 @@
         "mediaItems": [
           {
             "mediaItemId": 1,
-            "caption": "Fireplace.",
+            "caption": "This photo shows where the fireplace was located inside the Blundell rooms. ",
             "credit": "National Capital Authority",
-            "altText": "Fireplace.",
-            "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/img_placeholder.png",
-            "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/img_placeholder.png",
+            "altText": "This photo shows where the fireplace was located inside the Blundell rooms. ",
+            "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_fireplace_small.jpg",
+            "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_fireplace_small_thumb.jpg",
             "type": "image"
           },
           {
@@ -1024,33 +1044,42 @@
     "roomId": 3,
     "lon": 2923,
     "lat": 1717,
-    "title": "Oldfield Rooms",
+    "title": "3. Oldfield Rooms",
     "description": "<p>Henry (Harry) Oldfield and his wife, Alice, moved into the Cottage in the early 1930s. When Harry died in 1942, the widow Alice let her rooms to temporary boarders for income and because accommodation was scarce in the growing Capital City. What items in this room may have been mended or recycled in the absence of easily accessible resources? What items show that Alice was a self-sufficient person in the light of adversity?</p>",
     "years": "1933–1958",
     "tagline": "Explore the Oldfield Rooms",
-    "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_alice_photo_2_thumb.jpg",
-    "menuImgUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/room_plan_oldfield_mobile.png",
+    "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_alice_photo_small_thumb.jpg",
+    "menuImgUrl": "room_plan_oldfield_mobile.png",
     "mediaItems": [
       {
         "mediaItemId": 1,
         "caption": "Alice Matilda Oldfield (1888–1958).",
         "credit": "Photo courtesy Mr & Mrs H. Watson, Nowra",
         "altText": "Alice Matilda Oldfield (1888–1958).",
-        "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_alice_photo_small.jpg",
-        "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_alice_photo_small_thumb.jpg",
+        "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_alice_photo_2.jpg",
+        "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_alice_photo_2_thumb.jpg",
         "type": "image"
       },
       {
         "mediaItemId": 2,
-        "caption": "The Oldfield Rooms at Blundells Cottage.",
-        "credit": "National Capital Authority",
-        "altText": "The Oldfield Rooms at Blundells Cottage.",
+        "caption": "The Oldfield kitchen at Blundells Cottage.",
+        "credit": "National Capital Authority, Martin Ollman",
+        "altText": "The Oldfield kitchen at Blundells Cottage.",
         "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/oldfield_room_edit_2.jpg",
         "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/oldfield_room_thumbnail_2.jpg",
         "type": "image"
       },
       {
         "mediaItemId": 3,
+        "caption": "The Oldfield bedroom at Blundells Cottage.",
+        "credit": "National Capital Authority",
+        "altText": "The Oldfield bedroom at Blundells Cottage.",
+        "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_oldfield_bedroom.jpg",
+        "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_oldfield_bedroom_thumb.jpg",
+        "type": "image"
+      },
+      {
+        "mediaItemId": 4,
         "caption": "Scott's Crossing over the Molonglo River, under construction showing Blundells Cottage.",
         "credit": "National Archives of Australia #3149594",
         "altText": "Scott's Crossing over the Molonglo River, under construction showing Blundells Cottage.",
@@ -1059,14 +1088,14 @@
         "type": "image"
       },
       {
-        "mediaItemId": 4,
+        "mediaItemId": 5,
         "caption": "Scott's Crossing over the Molonglo River with Chevrolet motor truck in the foreground",
         "credit": "National Archives of Australia #3149781",
         "altText": "Scott's Crossing over the Molonglo River with Chevrolet motor truck in the foreground",
         "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/8_Scotts_Crossing_over_the_Molonglo_River_with_Chevrolet_motor_truck_in_the_foreground_showing_BC_in_the_background_NLA_3149781_edit.jpg",
         "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/8_Scotts_Crossing_over_the_Molonglo_River_with_Chevrolet_motor_truck_in_the_foreground_showing_BC_in_the_background_NLA_3149781_thumb.jpg",
         "type": "image"
-       }
+      }
     ],
     "poiNodes": [
       {
@@ -1110,6 +1139,7 @@
             "credit": "Dave Denby, Flikr, ‘Jammy Scones’, 2018",
             "altText": "Audio recount of Kevin Mulcahy's memories eating scones as a little boy in Mrs Oldfield's kitchen. Duration: 00:37.",
             "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/2_Kevin_Mulcahy_audio_trimmed.mp3",
+            "subtitleUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/2_Kevin_Mulcahy_audio_trimmed_subtitles.vtt",
             "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/Jam_scones_pic_for_audio_thumb.jpg",
             "type": "audio"
           }
@@ -1248,6 +1278,7 @@
             "credit": "Fourth Kingdom",
             "altText": "Bakelite educational video, 1942. Duration: 3:29.",
             "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/0765_Fourth_Kingdom_The_trimmed.mp4",
+            "subtitleUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/0765_Fourth_Kingdom_The_trimmed_subtitles.vtt",
             "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/0765_Fourth_Kingdom_The_23_26_43_00_3mb_thumb.jpg",
             "type": "video"
           }
@@ -1521,8 +1552,8 @@
             "caption": "Mrs Alice Oldfield.",
             "credit": "National Capital Authority",
             "altText": "Mrs Alice Oldfield.",
-            "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_alice_photo_2.jpg",
-            "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_alice_photo_2_thumb.jpg",
+            "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_alice_photo_wide_small.jpg",
+            "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_alice_photo_wide_small_thumb.jpg",
             "type": "image"
           },
           {
@@ -1602,8 +1633,8 @@
       },
       {
         "nodeId": 162,
-        "lon": 1762,
-        "lat": 2038,
+        "lon": 3872,
+        "lat": 1045,
         "title": "Insect Trap",
         "description": "<p>Before there was Mortein spray, objects like this were used to trap insects. Honey, sugar water and even liver was placed in the bottom of the trap. Flies, wasps and ants would enter through the broad hole in the base but were unable to find their way out.</p>",
         "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_insect_trap_small_thumb.jpg",
@@ -1693,12 +1724,12 @@
     "roomId": 4,
     "lon": 2926,
     "lat": 1420,
-    "title": "Sainsbury Rooms",
-    "description": "<p>The Sainsbury family rented two rooms of Blundells Cottage from 1958–1960. Glenn and Betty lived here with their three children: Brian, Susan and baby Wendy. Glenn worked as a carpenter on government constructions in Canberra. These rooms were originally added to the Cottage in the late 1880s to house the Blundells' growing family. What did the Sainsbury family do for fun without television? 100 years has passed since the Ginn family lived in the Cottage. How have things stayed the same? How have they changed?'</p>",
-    "years": "1960–1962",
+    "title": "4. Sainsbury Rooms",
+    "description": "<p>The Sainsbury family rented two rooms of Blundells Cottage from 1958–1961. Glenn and Betty lived here with their three children: Brian, Susan and baby Wendy. Glenn worked as a carpenter on government constructions in Canberra. These rooms were originally added to the Cottage in the late 1880s to house the Blundells' growing family. What did the Sainsbury family do for fun without television? 100 years has passed since the Ginn family lived in the Cottage. How have things stayed the same? How have they changed?</p>",
+    "years": "1958–1961",
     "tagline": "Explore the Sainsbury Rooms",
     "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/1_Glenn_and_Betty_wedding_pic_thumb.jpg",
-    "menuImgUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/room_plan_sainsbury_mobile.png",
+    "menuImgUrl": "room_plan_sainsbury_mobile.png",
     "mediaItems": [
       {
         "mediaItemId": 1,
@@ -1711,11 +1742,20 @@
       },
       {
         "mediaItemId": 2,
-        "caption": "The Sainsbury Rooms at Blundells Cottage.",
-        "credit": "National Capital Authority",
-        "altText": "The Sainsbury Rooms at Blundells Cottage.",
+        "caption": "The Sainsbury kitchen at Blundells Cottage.",
+        "credit": "National Capital Authority, Martin Ollman",
+        "altText": "The Sainsbury kitchen at Blundells Cottage.",
         "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/sainsbury_room_edit_2.jpg",
         "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/sainsbury_room_thumbnail_2.jpg",
+        "type": "image"
+      },
+      {
+        "mediaItemId": 3,
+        "caption": "The Sainsbury bedroom at Blundells Cottage.",
+        "credit": "National Capital Authority, Martin Ollman",
+        "altText": "The Sainsbury bedroom at Blundells Cottage.",
+        "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/NCA_Blundells_Cottage_610_3888.jpg",
+        "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/NCA_Blundells_Cottage_610_3888_thumb.jpg",
         "type": "image"
       }
     ],
@@ -1725,7 +1765,7 @@
         "lon": 2216,
         "lat": 1688,
         "title": "Iron",
-        "description": "<p>There have been several inventions to improve ironing without the aid of electricity. This petrol fired iron is just one of them. This iron was lit from underneath and a pump was used to build pressure in the tank.</p>",
+        "description": "<p>Even though electricity was widely available in the 60s in Australia, this Cottage wasn't connected until much later. There have been several inventions to improve ironing without the aid of electricity. This petrol-fired iron is just one of them. It was lit from underneath and a pump was used to build pressure in the tank.</p>",
         "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_iron_3_small_thumb.jpg",
         "themes": [
           {
@@ -1752,9 +1792,9 @@
         "mediaItems": [
           {
             "mediaItemId": 1,
-            "caption": "Petrol driven iron.",
+            "caption": "Petrol-driven iron.",
             "credit": "National Capital Authority",
-            "altText": "Petrol driven iron.",
+            "altText": "Petrol-driven iron.",
             "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_iron_3_small.jpg",
             "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_iron_3_small_thumb.jpg",
             "type": "image"
@@ -1994,7 +2034,7 @@
         "lon": 3398,
         "lat": 1576,
         "title": "Dining Table",
-        "description": "<p>This china is similar to what the Sainsbury family used while living in the Cottage. The children loved Weetbix for breakfast, accompanied by freshly made Sunshine powdered milk. Their father would mix a new batch for them every morning.</p>",
+        "description": "<p>This china is similar to what the Sainsbury family used while living in the Cottage in the 60s. The children loved Weetbix for breakfast, accompanied by freshly made Sunshine powdered milk. Their father would mix a new batch for them every morning.</p>",
         "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_dining_table_small_thumb.jpg",
         "themes": [
           {
@@ -2026,6 +2066,7 @@
             "credit": "Tubechive",
             "altText": "Sunshine Powdered Milk Commercial 1960. Duration: 00:32.",
             "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/Sunshine_Powdered_Milk_Commercial_1960.mp4",
+            "subtitleUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/Sunshine_Powdered_Milk_Commercial_1960_subtitles.vtt",
             "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/Sunshine_Powdered_Milk_Commercial_1960_thumb.png",
             "type": "video"
           }

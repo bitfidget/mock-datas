@@ -1,0 +1,2243 @@
+[
+    {
+      "roomId": 1,
+      "lon": 3054,
+      "lat": 1653,
+      "title": "Ginn Rooms",
+      "description": "<p>William and Mary Ginn and their three children, Walter, Henry and Agnes were the first family to move into the Cottage in about 1860. The Ginns migrated to Australia from England aboard the <i>Alfred</i> in 1857 in search of a better life. William was employed by the Duntroon Estate as the head ploughman and Mary, unlike other wives of workers on the Duntroon Estate, was not employed outside her home. These two rooms are part of the original four-roomed cottage completed in 1860. Can you find what kind of light source the Ginn family may have used in the room before electricity? How did they store their food? How would the Ginn family have mended their clothes? Look out for these kinds of items in the other rooms too, as we travel through time and explore the lives of the families who occupied this Cottage for over 100 years.</p>",
+      "years": "1860–1874",
+      "tagline": "Explore the Ginn Rooms",
+      "thumbnailUrl": "assets/media/1_Photo_of_Gertrude_and_Agnes_CDHS_Photo_345_thumb.jpg",
+      "menuImgUrl": "room_plan_ginn_mobile.png",
+      "mediaItems": [
+        {
+          "mediaItemId": 1,
+          "caption": "Gertrude (standing) and Agnes, daughters of William and Mary Ginn.",
+          "credit": "Photo courtesy of the Canberra District Historical Society, photograph 345.",
+          "altText": "Gertrude (standing) and Agnes, daughters of William and Mary Ginn.",
+          "url": "assets/media/1_Photo_of_Gertrude_and_Agnes_CDHS_Photo_345_edit.jpg",
+          "thumbnailUrl": "assets/media/1_Photo_of_Gertrude_and_Agnes_CDHS_Photo_345_thumb.jpg",
+          "type": "image"
+        },
+        {
+          "mediaItemId": 2,
+          "caption": "The Ginn Rooms at Blundells Cottage.",
+          "credit": "National Capital Authority",
+          "altText": "The Ginn Rooms at Blundells Cottage.",
+          "url": "assets/media/ginn_room_edit_2.jpg",
+          "thumbnailUrl": "assets/media/ginn_room_thumbnail_2.jpg",
+          "type": "image"
+        }
+      ],
+      "poiNodes": [
+        {
+          "nodeId": 50,
+          "lon": 1882,
+          "lat": 1170,
+          "title": "Vaccination Certificate",
+          "description": "<p>William and Mary Ginn and their two boys arrived in Sydney Cove on 23 July 1857 aboard the ship called <i>The Alfred</i> as assisted immigrants. All immigrants were required to be vaccinated against smallpox before their arrival in Australia. The voyage could be a perilous journey and some ships, like the <i>Loch Ard</i>, were wrecked off the coast of Victoria in 1878.</p>",
+          "thumbnailUrl": "assets/media/blundells_vaccination_certificate_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 9,
+              "themeName": "migration"
+            },
+            {
+              "themeId": 10,
+              "themeName": "European colonisation"
+            },
+            {
+              "themeId": 11,
+              "themeName": "hygiene"
+            },
+            {
+              "themeId": 5,
+              "themeName": "plains of promise"
+            },
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 32,
+              "themeName": "Ginn rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Walter Ginn's vaccination certificate dated 7 November 1854.",
+              "credit": "National Capital Authority",
+              "altText": "Walter Ginn's vaccination certificate dated 7 November 1854.",
+              "url": "assets/media/blundells_vaccination_certificate_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_vaccination_certificate_small_thumb.jpg",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 2,
+              "caption": "Wreck of the Loch Ard near Sherbrook River, from Illustrated Sydney News and New South Wales Agriculturist & Grazier, 13 July 1878, p. 13.",
+              "credit": "Accession Number H2002.150/51 Phillip Doak Collection, State Library of Victoria",
+              "altText": "Wreck of the Loch Ard near Sherbrook River, from Illustrated Sydney News and New South Wales Agriculturist & Grazier, 13 July 1878, p. 13.",
+              "url": "assets/media/2_Wreck_of_the_Loch_Ard_and_near_Sherbrook_River_from_Illustrated_Sydney_News_and_New_South_Wales_Agriculturist_and_Grazier_13_July_1878_p_13_Source-_Phillip_Doak_1958-1999_photographer_edit.jpg",
+              "thumbnailUrl": "assets/media/2_Wreck_of_the_Loch_Ard_and_near_Sherbrook_River_from_Illustrated_Sydney_News_and_New_South_Wales_Agriculturist_and_Grazier_13_July_1878_p_13_Source-_Phillip_Doak_1958-1999_photographer_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 51,
+          "lon": 1776,
+          "lat": 1082,
+          "title": "Knuckles",
+          "description": "<p>Knucklebones is a game that has existed for thousands of years across many countries. Commonly, the ankle bones of a sheep are thrown up and caught in different ways. The winner is the first player to successfully complete a series of prescribed throws. In the 1800s, people often handmade their own toys and dolls rather than buying them in a shop. Can you find a game in every room at Blundells Cottage?</p>",
+          "thumbnailUrl": "assets/media/blundells_knuckles_1_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 7,
+              "themeName": "recreation"
+            },
+            {
+              "themeId": 4,
+              "themeName": "make do and mend"
+            },
+            {
+              "themeId": 32,
+              "themeName": "Ginn rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Knucklebones game and cloth bag.",
+              "credit": "National Capital Authority",
+              "altText": "Knucklebones game and cloth bag.",
+              "url": "assets/media/blundells_knuckles_1_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_knuckles_1_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 52,
+          "lon": 987,
+          "lat": 1347,
+          "title": "Inkwell, Bible and Book",
+          "description": "<p>William and Mary Ginn were the first occupants of the Cottage. Mary's arrival documents record that she was a literate house servant and that William (who could neither read nor write) was a labourer. William and Mary were presented with <i>The Cottagers Family Prayers</i> book on 11 April 1857 by the Rev. Charles Colson with his best wishes. St John the Baptist church would have been an integral part of community life in this district from its consecration in 1845.</p>",
+          "thumbnailUrl": "assets/media/blundells_inkwell_bible_book_1a_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 5,
+              "themeName": "plains of promise"
+            },
+            {
+              "themeId": 6,
+              "themeName": "jobs"
+            },
+            {
+              "themeId": 7,
+              "themeName": "recreation"
+            },
+            {
+              "themeId": 32,
+              "themeName": "Ginn rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Mary Ginn's bible, inkwell and pen.",
+              "credit": "National Capital Authority",
+              "altText": "Mary Ginn's bible, inkwell and pen.",
+              "url": "assets/media/blundells_inkwell_bible_book_1a_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_inkwell_bible_book_1a_small_thumb.jpg",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 2,
+              "caption": "Church of St Johns Canberra, March 18 2007.",
+              "credit": "John https://www.flickr.com/photos/shebalso/448617320/in/photostream/",
+              "altText": "Church of St Johns Canberra, March 18 2007.",
+              "url": "assets/media/3_Church_of_St_Johns_Cnaberra_edit.jpg",
+              "thumbnailUrl": "assets/media/3_Church_of_St_Johns_Cnaberra_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 53,
+          "lon": 4548,
+          "lat": 1396,
+          "title": "Candle Mould",
+          "description": "<p>Poorer families had to make candles at home rather than buy them in a shop. By the 1850s, most families used paraffin or beeswax to pour into a mould like this. Can you find a source of light in every room at Blundells Cottage? How have lighting methods changed over time?</p>",
+          "thumbnailUrl": "assets/media/blundells_candle_mould_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 4,
+              "themeName": "make do and mend"
+            },
+            {
+              "themeId": 2,
+              "themeName": "technology"
+            },
+            {
+              "themeId": 32,
+              "themeName": "Ginn rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Candle mould.",
+              "credit": "National Capital Authority",
+              "altText": "Candle mould.",
+              "url": "assets/media/blundells_candle_mould_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_candle_mould_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 54,
+          "lon": 4502,
+          "lat": 1659,
+          "title": "Iron",
+          "description": "<p>At home in the 1860s, ironing without electricity was a hard job. Most plain metal irons were heated by a fire or on a stove and they often had a wooden handle so they could be held without getting too hot. At least two irons were needed: one to be in use and one to be re-heated on the fire or stove.</p>",
+          "thumbnailUrl": "assets/media/blundells_iron_1_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 2,
+              "themeName": "technology"
+            },
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 3,
+              "themeName": "women's work"
+            },
+            {
+              "themeId": 4,
+              "themeName": "make do and mend"
+            },
+            {
+              "themeId": 32,
+              "themeName": "Ginn rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Sad irons.",
+              "credit": "National Capital Authority",
+              "altText": "Sad irons.",
+              "url": "assets/media/blundells_iron_1_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_iron_1_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 55,
+          "lon": 3909,
+          "lat": 897,
+          "title": "Produce Bags",
+          "description": "<p>Before plasticware or prepackaged goods were available, people used cloth bags when buying and storing food. The bags were re-used and would have been refilled at the Duntroon store that issued supplies to employees. Can you find food containers in every room at Blundells Cottage? How have containers changed over time?</p>",
+          "thumbnailUrl": "assets/media/blundells_produce_bags_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 4,
+              "themeName": "make do and mend"
+            },
+            {
+              "themeId": 32,
+              "themeName": "Ginn rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Cloth bags.",
+              "credit": "National Capital Authority",
+              "altText": "Cloth bags.",
+              "url": "assets/media/blundells_produce_bags_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_produce_bags_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 56,
+          "lon": 3945,
+          "lat": 1741,
+          "title": "Tool Basket",
+          "description": "<p>William Ginn was a skilled labourer and was the head ploughman on the Duntroon Estate. He was respected by his employer, Charles Campbell, for his quiet manner and diligence. The Robertson Land Acts came into effect not long after William moved into the Cottage, enabling him to select two lots of 40 acres. In his lifetime, William went from a free employee migrant, to a tenant farmer, to a land owner.</p>",
+          "thumbnailUrl": "assets/media/blundells_tool_basket_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 8,
+              "themeName": "men's work"
+            },
+            {
+              "themeId": 6,
+              "themeName": "jobs"
+            },
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 32,
+              "themeName": "Ginn rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Tool basket, short-handled pick and a coffin plane.",
+              "credit": "National Capital Authority",
+              "altText": "Tool basket, short-handled pick and a coffin plane.",
+              "url": "assets/media/blundells_tool_basket_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_tool_basket_small_thumb.jpg",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 2,
+              "caption": "Crown Lands Alienation Act of 1861, Government of New South Wales.",
+              "credit": "Austlii",
+              "altText": "Crown Lands Alienation Act of 1861, Government of New South Wales.",
+              "url": "assets/media/4_Crownlands_Alienation_Act_1861_edit.jpg",
+              "thumbnailUrl": "assets/media/4_Crownlands_Alienation_Act_1861_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 57,
+          "lon": 1522,
+          "lat": 2088,
+          "title": "Bed",
+          "description": "<p>This is the original bed that the Ginn family brought with them from England to Australia. It would have been stowed away on their ship, <i>The Alfred</i>. Large trunks used to store their belongings during the voyage were then used as bed bases for the children, with straw-filled palliases and bedding placed on top. Have you ever travelled far from home? Journeys can be accompanied by feelings of apprehension, excitement, fear and sadness.</p>",
+          "thumbnailUrl": "assets/media/blundells_bed_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 9,
+              "themeName": "migration"
+            },
+            {
+              "themeId": 10,
+              "themeName": "European colonisation"
+            },
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 32,
+              "themeName": "Ginn rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Original Ginn family bed, circa 1850s.",
+              "credit": "National Capital Authority",
+              "altText": "Original Ginn family bed, circa 1850s",
+              "url": "assets/media/blundells_bed_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_bed_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 58,
+          "lon": 1179,
+          "lat": 1281,
+          "title": "Baby's Cot",
+          "description": "<p>The Ginn family had two boys when they arrived in Australia: Walter and Henry. Baby Gertrude was born before they moved into the Cottage and Agnes some time after. It was common for goods like a cot to be shared in the community if they were no longer needed by a family.</p>",
+          "thumbnailUrl": "assets/media/blundells_baby_cot_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 9,
+              "themeName": "migration"
+            },
+            {
+              "themeId": 10,
+              "themeName": "European colonisation"
+            },
+            {
+              "themeId": 4,
+              "themeName": "make do and mend"
+            },
+            {
+              "themeId": 32,
+              "themeName": "Ginn rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Ginn family cot.",
+              "credit": "National Capital Authority",
+              "altText": "Ginn family cot.",
+              "url": "assets/media/blundells_baby_cot_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_baby_cot_small_thumb.jpg",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 2,
+              "caption": "Gertrude Ginn born in Queanbeyan on 21 September, 1865.",
+              "credit": "National Capital Authority",
+              "altText": "Gertrude Ginn born in Queanbeyan on 21 September, 1865.",
+              "url": "assets/media/5_Gertrude_Ginn_Birth_Certificate_NCA_collection_edit.jpg",
+              "thumbnailUrl": "assets/media/5_Gertrude_Ginn_Birth_Certificate_NCA_collection_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 59,
+          "lon": 3510,
+          "lat": 2176,
+          "title": "Big Trunk",
+          "description": "<p>The Ginns would have experienced cramped conditions on their journey from England to Australia on a ship. Clothing and some supplies would have been stored in a canvas bag or small cabin trunk, for ready access, while the remainder of their possessions would have been stored in a trunk such as this. Passengers would have had limited access to their large trunks if weather conditions allowed.</p>",
+          "thumbnailUrl": "assets/media/blundells_big_trunk_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 9,
+              "themeName": "migration"
+            },
+            {
+              "themeId": 10,
+              "themeName": "European colonisation"
+            },
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 32,
+              "themeName": "Ginn rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Storage trunk in the Ginn Rooms.",
+              "credit": "National Capital Authority",
+              "altText": "Storage trunk in the Ginn Rooms.",
+              "url": "assets/media/blundells_big_trunk_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_big_trunk_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 60,
+          "lon": 4596,
+          "lat": 1103,
+          "title": "Lamp 2",
+          "description": "<p>Candle lanterns were effective lights because a gust of wind would not blow them out - particularly useful if venturing to the outhouse in the middle of the night.</p>",
+          "thumbnailUrl": "assets/media/blundells_lamp_3_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 2,
+              "themeName": "technology"
+            },
+            {
+              "themeId": 12,
+              "themeName": "sustainability"
+            },
+            {
+              "themeId": 32,
+              "themeName": "Ginn rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Candle lantern.",
+              "credit": "National Capital Authority",
+              "altText": "Candle lantern.",
+              "url": "assets/media/blundells_lamp_3_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_lamp_3_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 61,
+          "lon": 1935,
+          "lat": 1032,
+          "title": "Sewing Kit",
+          "description": "<p>Most men and women in the 1860s would have known how to sew. It was cheaper to repair or adjust clothes at home rather than buy them in a shop. Most mothers could make clothes for their children, often out of old, larger clothes. A woman's sewing kit was amongst her most prized possessions and usually contained large and small scissors, thread, needles and a thimble. Can you find a sewing kit in every room at Blundells Cottage? Have sewing kits stayed the same or changed over time?</p>",
+          "thumbnailUrl": "assets/media/blundells_sewing_kit_3_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 4,
+              "themeName": "make do and mend"
+            },
+            {
+              "themeId": 3,
+              "themeName": "women's work"
+            },
+            {
+              "themeId": 12,
+              "themeName": "sustainability"
+            },
+            {
+              "themeId": 24,
+              "themeName": "women's lives"
+            },
+            {
+              "themeId": 32,
+              "themeName": "Ginn rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Sewing kit.",
+              "credit": "National Capital Authority",
+              "altText": "Sewing kit.",
+              "url": "assets/media/blundells_sewing_kit_3_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_sewing_kit_3_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "roomId": 2,
+      "lon": 2379,
+      "lat": 1882,
+      "title": "Blundell Rooms",
+      "description": "<p>George and Flora Blundell, the second occupants of Blundells Cottage, moved in as newlyweds in 1874. George was a bullock driver for the Duntroon Estate and Flora was the local midwife. They raised eight children in the Cottage and had to build this slab shed in 1888 to accommodate them all. How did the Blundells light this space without electricity and how does it compare to other light sources in the Cottage used by families in different time periods? Families in the 1800s would ‘Make Do and Mend’ rather than buying new. What items in this room are recycled?</p>",
+      "years": "1874–1933",
+      "tagline": "Explore the Blundell Rooms",
+      "thumbnailUrl": "assets/media/1_Flora_Blundell_Source_NCA_thumb.jpg",
+      "menuImgUrl": "room_plan_blundell_mobile.png",
+      "mediaItems": [
+        {
+          "mediaItemId": 1,
+          "caption": "Flora Blundell (nee McLennan) 1845–1917.",
+          "credit": "National Capital Authority",
+          "altText": "Flora Blundell (nee McLennan) 1845–1917.",
+          "url": "assets/media/1_Flora_Blundell_Source_NCA_edit.jpg",
+          "thumbnailUrl": "assets/media/1_Flora_Blundell_Source_NCA_thumb.jpg",
+          "type": "image"
+        },
+        {
+          "mediaItemId": 2,
+          "caption": "The Blundell Rooms at Blundells Cottage.",
+          "credit": "National Capital Authority",
+          "altText": "The Blundell Rooms at Blundells Cottage.",
+          "url": "assets/media/blundell_room_edit_2.jpg",
+          "thumbnailUrl": "assets/media/blundell_room_thumbnail_2.jpg",
+          "type": "image"
+        }
+      ],
+      "poiNodes": [
+        {
+          "nodeId": 100,
+          "lon": 3232,
+          "lat": 1609,
+          "title": "Honey",
+          "description": "<p>George Blundell kept beehives in the paddock next to the Cottage and used the room which is now displayed as Alice Oldfield's kitchen to extract the honey. After the caps had been sliced off, the combs would be placed in muslin or mosquito net bags and hung from a hook in the exposed rafter over a pan to allow the honey to slowly run out.</p>",
+          "thumbnailUrl": "assets/media/blundells_honey_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 13,
+              "themeName": "subsistence"
+            },
+            {
+              "themeId": 12,
+              "themeName": "sustainability"
+            },
+            {
+              "themeId": 3,
+              "themeName": "women's work"
+            },
+            {
+              "themeId": 5,
+              "themeName": "plains of promise"
+            },
+            {
+              "themeId": 4,
+              "themeName": "make do and mend"
+            },
+            {
+              "themeId": 33,
+              "themeName": "Blundell rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Jar of honey.",
+              "credit": "National Capital Authority",
+              "altText": "Jar of honey.",
+              "url": "assets/media/blundells_honey_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_honey_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 101,
+          "lon": 2794,
+          "lat": 1236,
+          "title": "Sewing Kit and Sewing Machine",
+          "description": "<p>With eight children and an important role as the local midwife, there is no doubt Flora Blundell would have relied on her oldest daughter to make clothes for the family. The invention, and subsequent widespread availability, of the sewing machine would have been very welcome.</p>",
+          "thumbnailUrl": "assets/media/blundells_sewing_machine_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 3,
+              "themeName": "women's work"
+            },
+            {
+              "themeId": 14,
+              "themeName": "family life"
+            },
+            {
+              "themeId": 4,
+              "themeName": "make do and mend"
+            },
+            {
+              "themeId": 33,
+              "themeName": "Blundell rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Sewing machine.",
+              "credit": "National Capital Authority",
+              "altText": "Sewing machine.",
+              "url": "assets/media/blundells_sewing_machine_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_sewing_machine_small_thumb.jpg",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 2,
+              "caption": "Flora Susannah Blundell - eldest daughter of Flora and George.",
+              "credit": "National Capital Authority",
+              "altText": "Flora Susannah Blundell - eldest daughter of Flora and George.",
+              "url": "assets/media/2_Daughter_Flora_Blundell_Source_NCA_edit.jpg",
+              "thumbnailUrl": "assets/media/2_Daughter_Flora_Blundell_Source_NCA_thumb.jpg",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 3,
+              "caption": "Left, Sarah Blundell (wife of Fred Blundell) and her sisters-in-law, Alice (born 1885) and Ada (born 1883) Blundell. Fred, Ada and Alice were the children of George and Flora Blundell.",
+              "credit": "CDHS Collection, Photograph 2314",
+              "altText": "Left, Sarah Blundell (wife of Fred Blundell) and her sisters-in-law, Alice (born 1885) and Ada (born 1883) Blundell. Fred, Ada and Alice were the children of George and Flora Blundell.",
+              "url": "assets/media/3_Blundell_Girls_CDHS_photo_2314_edit.jpg",
+              "thumbnailUrl": "assets/media/3_Blundell_Girls_CDHS_photo_2314_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 102,
+          "lon": 3321,
+          "lat": 1662,
+          "title": "Canisters",
+          "description": "<p>These containers are vermin-proof and keep their contents at a stable temperature. Can you find food containers in every room of the Cottage? How have they changed over time?</p>",
+          "thumbnailUrl": "assets/media/blundells_canisters_3_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 12,
+              "themeName": "sustainability"
+            },
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 33,
+              "themeName": "Blundell rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Stoneware canisters.",
+              "credit": "National Capital Authority",
+              "altText": "Stoneware canisters.",
+              "url": "assets/media/blundells_canisters_3_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_canisters_3_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 103,
+          "lon": 3583,
+          "lat": 1146,
+          "title": "Lamp",
+          "description": "<p>Kerosene lamps were the most popular form of lighting in working class households in the 19th century because they were more economical and produced more light than candles. The glass still needed to be cleaned daily and the wick trimmed to ensure minimal smoke and maximum light. Can you find a form of light in every room? How have lights changed over time?</p>",
+          "thumbnailUrl": "assets/media/blundells_lamp_4_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 33,
+              "themeName": "Blundell rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Kerosene lamp.",
+              "credit": "National Capital Authority",
+              "altText": "Kerosene lamp.",
+              "url": "assets/media/blundells_lamp_4_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_lamp_4_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 104,
+          "lon": 3296,
+          "lat": 1444,
+          "title": "Meat Platter",
+          "description": "<p>This meat platter was a wedding gift from Mrs George Campbell of Duntroon in 1893 for Sarah Winter of Red Hill when she married Samuel Schumack. It is of the famous Willow pattern design and the depression in the platter is to collect the juices when the meat is carved.</p>",
+          "thumbnailUrl": "assets/media/blundells_meat_plate_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 15,
+              "themeName": "a growing population"
+            },
+            {
+              "themeId": 33,
+              "themeName": "Blundell rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Meat platter.",
+              "credit": "National Capital Authority",
+              "altText": "Meat platter.",
+              "url": "assets/media/blundells_meat_plate_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_meat_plate_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 105,
+          "lon": 2223,
+          "lat": 1322,
+          "title": "Washboard",
+          "description": "<p>Once an article to be washed was wet and soaped, it was then rubbed across the ridges in the metal section of this board to help loosen dirt and stains. This was considered a labour-saving device as it was easier than just rubbing the fabric against itself with your hands. Imagine how much washing had to be done with eight children in the house!</p>",
+          "thumbnailUrl": "assets/media/blundells_washerboard_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 3,
+              "themeName": "women's work"
+            },
+            {
+              "themeId": 2,
+              "themeName": "technology"
+            },
+            {
+              "themeId": 15,
+              "themeName": "a growing population"
+            },
+            {
+              "themeId": 33,
+              "themeName": "Blundell rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Washboard.",
+              "credit": "National Capital Authority",
+              "altText": "Washboard.",
+              "url": "assets/media/blundells_washerboard_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_washerboard_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 106,
+          "lon": 2618,
+          "lat": 2568,
+          "title": "Hammocks",
+          "description": "<p>Hammocks were popular in the 19th and 20th centuries because they were more affordable than beds and they also took up less room. The Blundell boys, who slept in the shed, packed away their hammocks everyday so the space could be used for other purposes.</p> ",
+          "thumbnailUrl": "assets/media/blundells_hammocks_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 15,
+              "themeName": "a growing population"
+            },
+            {
+              "themeId": 16,
+              "themeName": "a child's life"
+            },
+            {
+              "themeId": 33,
+              "themeName": "Blundell rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Hammock.",
+              "credit": "National Capital Authority",
+              "altText": "Hammock.",
+              "url": "assets/media/blundells_hammocks_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_hammocks_small_thumb.jpg",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 2,
+              "caption": "A young boy in period dress up from the Blundell era, 1963.",
+              "credit": "Canberra and District Historical Society Collection photograph 2175",
+              "altText": "A young boy in period dress up from the Blundell era, 1963.",
+              "url": "assets/media/4_young_boy_CDHS_photo_2175_edit.jpg",
+              "thumbnailUrl": "assets/media/4_young_boy_CDHS_photo_2175_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 107,
+          "lon": 3000,
+          "lat": 3149,
+          "title": "Bush Carpentry - Kerosene Cabinet",
+          "description": "<p>Empty kerosene, oil and biscuit tins were recycled into useful pieces of furniture through the late 19th and early 20th centuries. Some were a simple re-use as a container and others, such as these drawers, were complete pieces of furniture. Some were fancy, like the kindling bin in the next room, but most were made over into needed items as quickly as possible: buckets, watering cans and even shovels.</p>",
+          "thumbnailUrl": "assets/media/blundells_kerosene_cabinet_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 13,
+              "themeName": "subsistence"
+            },
+            {
+              "themeId": 4,
+              "themeName": "make do and mend"
+            },
+            {
+              "themeId": 12,
+              "themeName": "sustainability"
+            },
+            {
+              "themeId": 33,
+              "themeName": "Blundell rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Kerosene cabinet.",
+              "credit": "National Capital Authority",
+              "altText": "Kerosene cabinet.",
+              "url": "assets/media/blundells_kerosene_cabinet_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_kerosene_cabinet_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 108,
+          "lon": 2186,
+          "lat": 2433,
+          "title": "Bush Carpentry - Writing Desk",
+          "description": "<p>This standing desk was made for Walter Ginn by one of the Blundell family and is made out of packing crates and other recycled timber.</p> ",
+          "thumbnailUrl": "assets/media/blundells_writing_desk_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 4,
+              "themeName": "make do and mend"
+            },
+            {
+              "themeId": 12,
+              "themeName": "sustainability"
+            },
+            {
+              "themeId": 33,
+              "themeName": "Blundell rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Blundell standing desk.",
+              "credit": "National Capital Authority",
+              "altText": "Blundell standing desk.",
+              "url": "assets/media/blundells_writing_desk_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_writing_desk_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 109,
+          "lon": 3361,
+          "lat": 2073,
+          "title": "Swag Chair",
+          "description": "<p>This would have been a very useful piece of kit for George Blundell. As bullock driver for the Duntroon Estate he was often on the road, as the round trip to Sydney took six weeks. This chair folds out into a camp bed and, with the addition of a grass or straw-filled palliasse (a thin mattress), would have been a reasonably comfortable bed.</p>",
+          "thumbnailUrl": "assets/media/blundells_swag_chair_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 17,
+              "themeName": "farming the plains"
+            },
+            {
+              "themeId": 28,
+              "themeName": "a changing landscape"
+            },
+            {
+              "themeId": 33,
+              "themeName": "Blundell rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Folding chair/stretcher.",
+              "credit": "National Capital Authority",
+              "altText": "Folding chair/stretcher.",
+              "url": "assets/media/blundells_swag_chair_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_swag_chair_small_thumb.jpg",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 2,
+              "caption": "Blundell bullock team with lead bullocks Smut and Smiler. Charles Frederick Blundell in charge.",
+              "credit": "Canberra and District Historical Society Collection photograph 4840",
+              "altText": "Blundell bullock team with lead bullocks Smut and Smiler. Charles Frederick Blundell in charge.",
+              "url": "assets/media/6_Blundell-Bullock-photo-CDHS-photograph-4840-edit.jpg",
+              "thumbnailUrl": "assets/media/6_Blundell_Bullock_photo_CDHS_photograph_4840_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 110,
+          "lon": 2115,
+          "lat": 1022,
+          "title": "Gunny Sack and Apron",
+          "description": "<p>Flora Blundell was born in 1845 and was a Scottish immigrant to Australia. She was the local midwife in the area and would ride on her tall grey horse to women in need. Flora would have had a midwifery kit (in a gunny sack slung across the pommel of her horse) consisting of a clean apron and rudimentary medical equipment. Imagine the change in the landscape she would have experienced as she rode her horse, during her decades in the Cottage.</p>",
+          "thumbnailUrl": "assets/media/blundells_sack_apron_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 3,
+              "themeName": "women's work"
+            },
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 15,
+              "themeName": "a growing population"
+            },
+            {
+              "themeId": 33,
+              "themeName": "Blundell rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Midwifery kit.",
+              "credit": "National Capital Authority",
+              "altText": "Midwifery kit.",
+              "url": "assets/media/blundells_sack_apron_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_sack_apron_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 111,
+          "lon": 2956,
+          "lat": 593,
+          "title": "Fireplace",
+          "description": "<p>In 1888, the Blundell family constructed this slab shed to accommodate their growing family. In this year, their last and eighth child was born. A fabric analysis report from 2017 states that there would have been two rooms in the shed, accommodating a bedroom for some of the children, and a kitchen with a fireplace. Why isn't the fireplace visible onsite anymore? The fireplace is believed to have collapsed in 1962 and replaced with timber slats in 1968.</p>",
+          "thumbnailUrl": "assets/media/img_placeholder.png",
+          "themes": [
+            {
+              "themeId": 29,
+              "themeName": "growing families"
+            },
+            {
+              "themeId": 33,
+              "themeName": "Blundell rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Fireplace.",
+              "credit": "National Capital Authority",
+              "altText": "Fireplace.",
+              "url": "assets/media/img_placeholder.png",
+              "thumbnailUrl": "assets/media/img_placeholder.png",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 2,
+              "caption": "Slab shed and main dwelling plan. The red circles indicate sections of wall that would have been reconstructed in 1968.",
+              "credit": "Blundells Cottage Slab Shed Fabric Analysis, Pip Giovanelli, 2017",
+              "altText": "Slab shed and main dwelling plan. The red circles indicate sections of wall that would have been reconstructed in 1968.",
+              "url": "assets/media/Slab_shed_picture.jpg",
+              "thumbnailUrl": "assets/media/Slab_shed_picture_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "roomId": 3,
+      "lon": 2923,
+      "lat": 1717,
+      "title": "Oldfield Rooms",
+      "description": "<p>Henry (Harry) Oldfield and his wife, Alice, moved into the Cottage in the early 1930s. When Harry died in 1942, the widow Alice let her rooms to temporary boarders for income and because accommodation was scarce in the growing Capital City. What items in this room may have been mended or recycled in the absence of easily accessible resources? What items show that Alice was a self-sufficient person in the light of adversity?</p>",
+      "years": "1933–1958",
+      "tagline": "Explore the Oldfield Rooms",
+      "thumbnailUrl": "assets/media/blundells_alice_photo_small_thumb.jpg",
+      "menuImgUrl": "room_plan_oldfield_mobile.png",
+      "mediaItems": [
+        {
+          "mediaItemId": 1,
+          "caption": "Alice Matilda Oldfield (1888–1958).",
+          "credit": "Photo courtesy Mr & Mrs H. Watson, Nowra",
+          "altText": "Alice Matilda Oldfield (1888–1958).",
+          "url": "assets/media/blundells_alice_photo_small.jpg",
+          "thumbnailUrl": "assets/media/blundells_alice_photo_small_thumb.jpg",
+          "type": "image"
+        },
+        {
+          "mediaItemId": 2,
+          "caption": "The Oldfield Rooms at Blundells Cottage.",
+          "credit": "National Capital Authority",
+          "altText": "The Oldfield Rooms at Blundells Cottage.",
+          "url": "assets/media/oldfield_room_edit_2.jpg",
+          "thumbnailUrl": "assets/media/oldfield_room_thumbnail_2.jpg",
+          "type": "image"
+        },
+        {
+          "mediaItemId": 3,
+          "caption": "Scott's Crossing over the Molonglo River, under construction showing Blundells Cottage.",
+          "credit": "National Archives of Australia #3149594",
+          "altText": "Scott's Crossing over the Molonglo River, under construction showing Blundells Cottage.",
+          "url": "assets/media/7_Scotts_Crossing_NLA_3149594_edit.jpg",
+          "thumbnailUrl": "assets/media/7_Scotts_Crossing_NLA_3149594_thumb.jpg",
+          "type": "image"
+        },
+        {
+          "mediaItemId": 4,
+          "caption": "Scott's Crossing over the Molonglo River with Chevrolet motor truck in the foreground",
+          "credit": "National Archives of Australia #3149781",
+          "altText": "Scott's Crossing over the Molonglo River with Chevrolet motor truck in the foreground",
+          "url": "assets/media/8_Scotts_Crossing_over_the_Molonglo_River_with_Chevrolet_motor_truck_in_the_foreground_showing_BC_in_the_background_NLA_3149781_edit.jpg",
+          "thumbnailUrl": "assets/media/8_Scotts_Crossing_over_the_Molonglo_River_with_Chevrolet_motor_truck_in_the_foreground_showing_BC_in_the_background_NLA_3149781_thumb.jpg",
+          "type": "image"
+        }
+      ],
+      "poiNodes": [
+        {
+          "nodeId": 150,
+          "lon": 3436,
+          "lat": 1092,
+          "title": "Scones",
+          "description": "<p>Alice Oldfield had a small farmlet and would sell eggs, butter, cream and chickens as well as vegetables to the community. She loved to bake and would always have fresh scones, jam and clotted cream to serve to Kevin, a local Canberra boy, when he visited with his mother.</p>",
+          "thumbnailUrl": "assets/media/blundells_scones_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 18,
+              "themeName": "food"
+            },
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 3,
+              "themeName": "women's work"
+            },
+            {
+              "themeId": 34,
+              "themeName": "Oldfield rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Scones with cream.",
+              "credit": "National Capital Authority",
+              "altText": "Scones with cream.",
+              "url": "assets/media/blundells_scones_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_scones_small_thumb.jpg",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 2,
+              "caption": "Kevin Mulcahy remembers eating scones with clotted cream as a little boy in Mrs Oldfield's kitchen. Duration: 00:37.",
+              "credit": "Dave Denby, Flikr, ‘Jammy Scones’, 2018",
+              "altText": "Audio recount of Kevin Mulcahy's memories eating scones as a little boy in Mrs Oldfield's kitchen. Duration: 00:37.",
+              "url": "assets/media/2_Kevin_Mulcahy_audio_trimmed.mp3",
+              "thumbnailUrl": "assets/media/Jam_scones_pic_for_audio_thumb.jpg",
+              "type": "audio"
+            }
+          ]
+        },
+        {
+          "nodeId": 151,
+          "lon": 4047,
+          "lat": 1007,
+          "title": "Cards",
+          "description": "<p>The number of young public servants moving to Canberra in the 1950s grew but there was little ‘respectable’ entertainment for them. Alice would hold card evenings in her front room where singles could meet in a chaperoned environment.</p>",
+          "thumbnailUrl": "assets/media/blundells_cards_1_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 19,
+              "themeName": "national capital"
+            },
+            {
+              "themeId": 20,
+              "themeName": "leisure"
+            },
+            {
+              "themeId": 5,
+              "themeName": "plains of promise"
+            },
+            {
+              "themeId": 28,
+              "themeName": "a changing landscape"
+            },
+            {
+              "themeId": 31,
+              "themeName": "paddocks to Parliament"
+            },
+            {
+              "themeId": 34,
+              "themeName": "Oldfield rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Pack of cards.",
+              "credit": "National Capital Authority",
+              "altText": "Pack of cards.",
+              "url": "assets/media/blundells_cards_1_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_cards_1_small_thumb.jpg",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 2,
+              "caption": "Canberrans enjoying the Canberra Olympic Pool late 1950s. Duration: 0:24.",
+              "credit": "Kino Library",
+              "altText": "Canberrans enjoying the Canberra Olympic Pool late 1950s. Duration: 0:24.",
+              "url": "assets/media/Canberrans_enjoying_the_Canberra_Olympic_Pool_late_1950s.mp4",
+              "thumbnailUrl": "assets/media/Canberrans_enjoying_the_Canberra_Olympic_Pool_late_1950s_thumb.png",
+              "type": "video"
+            },
+            {
+              "mediaItemId": 3,
+              "caption": "Cities and Towns - Canberra - Mort Street Industrial Area, 1958.",
+              "credit": "National Archives of Australia, #8357449",
+              "altText": "Cities and Towns - Canberra - Mort Street Industrial Area, 1958.",
+              "url": "assets/media/3-1_Cities_and_Towns_1958_NLA_8357449_0001_edit.jpg",
+              "thumbnailUrl": "assets/media/3-1_Cities_and_Towns_1958_NLA_8357449_0001_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 152,
+          "lon": 4046,
+          "lat": 2046,
+          "title": "Iron",
+          "description": "<p>Sometimes called a ‘chuffer’, these irons would be filled with glowing coals from the fire before being pressed onto the fabric. Alice regularly attended St John’s church (like the Ginn family before her) and would add the church linen to her ironing pile.</p>",
+          "thumbnailUrl": "assets/media/blundells_iron_2_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 3,
+              "themeName": "women's work"
+            },
+            {
+              "themeId": 4,
+              "themeName": "make do and mend"
+            },
+            {
+              "themeId": 34,
+              "themeName": "Oldfield rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Chuffer iron.",
+              "credit": "National Capital Authority",
+              "altText": "Chuffer iron.",
+              "url": "assets/media/blundells_iron_2_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_iron_2_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 153,
+          "lon": 3754,
+          "lat": 1877,
+          "title": "Canisters",
+          "description": "<p>Bakelite was an early form of plastic which was very popular from the 1920s onward. It was used for jewellery, picnic sets, telephones, radios, electrical switches (look to the left of the stairwell in the Cottage), hair accessories and containers.</p>",
+          "thumbnailUrl": "assets/media/blundells_canisters_1_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 3,
+              "themeName": "women's work"
+            },
+            {
+              "themeId": 18,
+              "themeName": "food"
+            },
+            {
+              "themeId": 34,
+              "themeName": "Oldfield rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Bakelite canisters.",
+              "credit": "National Capital Authority",
+              "altText": "Bakelite canisters.",
+              "url": "assets/media/blundells_canisters_1_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_canisters_1_small_thumb.jpg",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 1,
+              "caption": "Bakelite educational video, 1942. Duration: 3:29.",
+              "credit": "Fourth Kingdom",
+              "altText": "Bakelite educational video, 1942. Duration: 3:29.",
+              "url": "assets/media/0765_Fourth_Kingdom_The_trimmed.mp4",
+              "thumbnailUrl": "assets/media/0765_Fourth_Kingdom_The_23_26_43_00_3mb_thumb.jpg",
+              "type": "video"
+            }
+          ]
+        },
+        {
+          "nodeId": 154,
+          "lon": 3763,
+          "lat": 773,
+          "title": "Lamp",
+          "description": "<p>Oil and kerosene lamps were still widely available during World War II and into the 1950s as having electricity connected to your house was still uncommon, except in large cities. Can you find different forms of lighting in every room of the Cottage? How has lighting changed over time?</p>",
+          "thumbnailUrl": "assets/media/blundells_lamp_1_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 4,
+              "themeName": "make do and mend"
+            },
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 34,
+              "themeName": "Oldfield rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Kerosene lamp.",
+              "credit": "National Capital Authority",
+              "altText": "Kerosene lamp.",
+              "url": "assets/media/blundells_lamp_1_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_lamp_1_small_thumb.jpg",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 2,
+              "caption": "Views near Parkes Way, 1959.",
+              "credit": "National Capital Authority Collection",
+              "altText": "Views near Parkes Way, 1959.",
+              "url": "assets/media/4-4_Views_near_Parkes_Way_NCA_Collection_edit.jpg",
+              "thumbnailUrl": "assets/media/4-4_Views_near_Parkes_Way_NCA_Collection_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 155,
+          "lon": 3725,
+          "lat": 1103,
+          "title": "Newspaper",
+          "description": "<p>On 3 September 1939, Prime Minister Menzies announced that Australia was at war. Harry Oldfield died in 1942, three years before the war ended. Alice remained in the Cottage as a widow for another 16 years, letting her rooms for income.</p>",
+          "thumbnailUrl": "assets/media/blundells_newspaper_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 19,
+              "themeName": "national capital"
+            },
+            {
+              "themeId": 3,
+              "themeName": "women's work"
+            },
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 34,
+              "themeName": "Oldfield rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "The Canberra Times, 3 September 1939.",
+              "credit": "National Capital Authority",
+              "altText": "The Canberra Times, 3 September 1939.",
+              "url": "assets/media/blundells_newspaper_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_newspaper_small_thumb.jpg",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 2,
+              "caption": "Portrait of Robert Menzies, Luke Monte.",
+              "credit": "National Library of Australia P950/32/E",
+              "altText": "Portrait of Robert Menzies, Luke Monte.",
+              "url": "assets/media/5_Robert_Menzies_nla_obj-136260982-m_edit.jpg",
+              "thumbnailUrl": "assets/media/5_Robert_Menzies_nla_obj-136260982-m_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 156,
+          "lon": 2195,
+          "lat": 1355,
+          "title": "Hot Water Bottle",
+          "description": "<p>Can you guess what this is? It's a ‘bed pig’ or ceramic hot water bottle. Alice's favourite hobby was crochet and you will find several crocheted items in her rooms. She also liked horse racing, playing cards and smoking cigarettes!</p>",
+          "thumbnailUrl": "assets/media/blundells_hot_water_bottle_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 20,
+              "themeName": "leisure"
+            },
+            {
+              "themeId": 3,
+              "themeName": "women's work"
+            },
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 34,
+              "themeName": "Oldfield rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "‘Bed pig’ or a ceramic hot water bottle.",
+              "credit": "National Capital Authority",
+              "altText": "‘Bed pig’ or a ceramic hot water bottle.",
+              "url": "assets/media/blundells_hot_water_bottle_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_hot_water_bottle_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 157,
+          "lon": 2376,
+          "lat": 2109,
+          "title": "Shoe Shine",
+          "description": "<p>Alice's beloved husband Harry died in 1942. He was known in the district for always wearing brown-coloured riding boots when most wore black-coloured. Both his and Alice's shoes would have been polished regularly and cared for so they would last a long time.</p>",
+          "thumbnailUrl": "assets/media/blundells_shoe_shine_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 4,
+              "themeName": "make do and mend"
+            },
+            {
+              "themeId": 34,
+              "themeName": "Oldfield rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Shoe polish.",
+              "credit": "National Capital Authority",
+              "altText": "Shoe polish.",
+              "url": "assets/media/blundells_shoe_shine_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_shoe_shine_small_thumb.jpg",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 2,
+              "caption": "Harry Oldfield, 1930s.",
+              "credit": "National Capital Authority",
+              "altText": "Harry Oldfield, 1930s.",
+              "url": "assets/media/6_Harry_Oldfield_edit.jpeg",
+              "thumbnailUrl": "assets/media/6_Harry_Oldfield_thumb.jpeg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 158,
+          "lon": 3900,
+          "lat": 1841,
+          "title": "Stove",
+          "description": "<p>Alice did not use the original cooking fireplace, with its swinging arm, located in the corner of the room. Instead she had a ‘modern’ Beacon brand stove installed. She used the original cooking fireplace (with its draught) as a tiny cool room or fridge for her meat and dairy products.</p>",
+          "thumbnailUrl": "assets/media/blundells_stove_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 4,
+              "themeName": "make do and mend"
+            },
+            {
+              "themeId": 3,
+              "themeName": "women's work"
+            },
+            {
+              "themeId": 34,
+              "themeName": "Oldfield rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Beacon slow combustion stove.",
+              "credit": "National Capital Authority",
+              "altText": "Beacon slow combustion stove.",
+              "url": "assets/media/blundells_stove_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_stove_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 159,
+          "lon": 3259,
+          "lat": 1559,
+          "title": "Exposed Beam",
+          "description": "<p>The 1888 extension to the Cottage was roofed in corrugated iron. Either then or soon afterwards, corrugated iron was also laid over the original shingles on the rest of the Cottage. Iron had the added advantage of allowing rainwater to be collected, instead of having to draw water from the river. You can see the original shingled roof here.</p>",
+          "thumbnailUrl": "assets/media/blundells_exposed_beam_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 21,
+              "themeName": "changes over time"
+            },
+            {
+              "themeId": 22,
+              "themeName": "cottage fabric"
+            },
+            {
+              "themeId": 5,
+              "themeName": "plains of promise"
+            },
+            {
+              "themeId": 34,
+              "themeName": "Oldfield rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Shingled roof.",
+              "credit": "National Capital Authority",
+              "altText": "Shingled roof.",
+              "url": "assets/media/blundells_exposed_beam_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_exposed_beam_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 160,
+          "lon": 4611,
+          "lat": 707,
+          "title": "Photo of Alice",
+          "description": "<p>Alice Oldfield was known as ‘Mrs O’ by most of the community. She was tough, hardworking and generous to those in need. Housing in Canberra was in short supply during and after World War II and Alice would let rooms in her house to boarders, despite not having electricity or running water. Alice also welcomed many babies born in the Cottage, including David O'Brien in 1957.</p>",
+          "thumbnailUrl": "assets/media/blundells_alice_photo_2_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 3,
+              "themeName": "women's work"
+            },
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 23,
+              "themeName": "community"
+            },
+            {
+              "themeId": 34,
+              "themeName": "Oldfield rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Mrs Alice Oldfield.",
+              "credit": "National Capital Authority",
+              "altText": "Mrs Alice Oldfield.",
+              "url": "assets/media/blundells_alice_photo_2.jpg",
+              "thumbnailUrl": "assets/media/blundells_alice_photo_2_thumb.jpg",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 2,
+              "caption": "Marj O'Brien (tenant of Mrs Oldfield) 1958.",
+              "credit": "National Capital Authority Collection",
+              "altText": "Marj O'Brien (tenant of Mrs Oldfield) 1958.",
+              "url": "assets/media/7_Marj_Obrien_tenant_of_Mrs_Oldfield_1958_NCA_Collection6__edit.jpg",
+              "thumbnailUrl": "assets/media/7_Marj_Obrien_tenant_of_Mrs_Oldfield_1958_NCA_Collection6__thumb.jpg",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 3,
+              "caption": "Alice Oldfield holding David O'Brien, 1957.",
+              "credit": "National Capital Authority",
+              "altText": "Alice Oldfield holding David O'Brien, 1957.",
+              "url": "assets/media/7-1_Alice_Oldfield_holding_baby_David_OBrien_NCA_Collection_edit.jpg",
+              "thumbnailUrl": "assets/media/7-1_Alice_Oldfield_holding_baby_David_OBrien_NCA_Collection_thumb.jpg",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 4,
+              "caption": "Earthworks for Commonwealth Gardens from Blundells Cottage, Canberra by Richard Clough.",
+              "credit": "National Library of Australia obj-143754996",
+              "altText": "Earthworks for Commonwealth Gardens from Blundells Cottage, Canberra by Richard Clough.",
+              "url": "assets/media/CDC-10730675_1_-_earthworks_edited.jpg",
+              "thumbnailUrl": "assets/media/CDC-10730675_1_-_earthworks_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 161,
+          "lon": 1629,
+          "lat": 1449,
+          "title": "Patchwork Quilt",
+          "description": "<p>Blundells Cottage was made over as a house museum by the Canberra and District Historical Society in the early 1960s. To mark its opening in 1964, the Canberra Embroiderers Guild made a group patchwork quilt and donated it for display in the Cottage. The names of many of the women who worked on this are stitched into the reverse side.</p>",
+          "thumbnailUrl": "assets/media/blundells_patchwork_quilt_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 3,
+              "themeName": "women's work"
+            },
+            {
+              "themeId": 23,
+              "themeName": "community"
+            },
+            {
+              "themeId": 5,
+              "themeName": "plains of promise"
+            },
+            {
+              "themeId": 34,
+              "themeName": "Oldfield rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Patchwork quilt.",
+              "credit": "National Capital Authority",
+              "altText": "Patchwork quilt.",
+              "url": "assets/media/blundells_patchwork_quilt_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_patchwork_quilt_small_thumb.jpg",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 2,
+              "caption": "‘Gift from Guild to Museum’.",
+              "credit": "The Canberra Times, 10 March 1964",
+              "altText": "‘Gift from Guild to Museum’.",
+              "url": "assets/media/8_Canberra_Times_article_edit.jpg",
+              "thumbnailUrl": "assets/media/8_Canberra_Times_article_thumb.jpg",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 3,
+              "caption": "Mrs Susan Warren with weapons and armour used by the Ned Kelly outlaws, photographed at Blundells Cottage in Canberra, 1976.",
+              "credit": "National Archives of Australia #11454301",
+              "altText": "Mrs Susan Warren with weapons and armour used by the Ned Kelly outlaws, photographed at Blundells Cottage in Canberra, 1976.",
+              "url": "assets/media/10_Mrs_Susan_Warren_NAA_11454301_0001_edit.jpg",
+              "thumbnailUrl": "assets/media/10_Mrs_Susan_Warren_NAA_11454301_0001_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 162,
+          "lon": 1762,
+          "lat": 2038,
+          "title": "Insect Trap",
+          "description": "<p>Before there was Mortein spray, objects like this were used to trap insects. Honey, sugar water and even liver was placed in the bottom of the trap. Flies, wasps and ants would enter through the broad hole in the base but were unable to find their way out.</p>",
+          "thumbnailUrl": "assets/media/blundells_insect_trap_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 13,
+              "themeName": "subsistence"
+            },
+            {
+              "themeId": 3,
+              "themeName": "women's work"
+            },
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 12,
+              "themeName": "sustainability"
+            },
+            {
+              "themeId": 34,
+              "themeName": "Oldfield rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Glass insect trap.",
+              "credit": "National Capital Authority",
+              "altText": "Glass insect trap.",
+              "url": "assets/media/blundells_insect_trap_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_insect_trap_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 163,
+          "lon": 3457,
+          "lat": 951,
+          "title": "Sewing Kit",
+          "description": "<p>The Depression era and then World War II saw a resurgence in making do and mending clothes and linens rather than buying new. ‘Mrs Sew and Sew’ was a popular wartime campaign for household economy.</p>",
+          "thumbnailUrl": "assets/media/blundells_sewing_kit_1a_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 3,
+              "themeName": "women's work"
+            },
+            {
+              "themeId": 4,
+              "themeName": "make do and mend"
+            },
+            {
+              "themeId": 34,
+              "themeName": "Oldfield rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Sewing kit.",
+              "credit": "National Capital Authority",
+              "altText": "Sewing kit.",
+              "url": "assets/media/blundells_sewing_kit_1a_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_sewing_kit_1a_small_thumb.jpg",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 2,
+              "caption": "‘Mrs Sew and Sew’ campaign from 1944. Video available at https://www.youtube.com/watch?v=I7FaQnqhYBs&t=2s.",
+              "credit": "British Movietone",
+              "altText": "‘Mrs Sew and Sew’ campaign from 1944. Video available at https://www.youtube.com/watch?v=I7FaQnqhYBs&t=2s.",
+              "url": "assets/media/Mrs_Sew_and_Sew_campaign_from_1944_thumb.jpg",
+              "thumbnailUrl": "assets/media/Mrs_Sew_and_Sew_campaign_from_1944_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "roomId": 4,
+      "lon": 2926,
+      "lat": 1420,
+      "title": "Sainsbury Rooms",
+      "description": "<p>The Sainsbury family rented two rooms of Blundells Cottage from 1958–1960. Glenn and Betty lived here with their three children: Brian, Susan and baby Wendy. Glenn worked as a carpenter on government constructions in Canberra. These rooms were originally added to the Cottage in the late 1880s to house the Blundell's growing family. What did the Sainsbury family do for fun without television? 100 years has passed since the Ginn family lived in the Cottage. How have things stayed the same? How have they changed?</p>",
+      "years": "1960–1962",
+      "tagline": "Explore the Sainsbury Rooms",
+      "thumbnailUrl": "assets/media/1_Glenn_and_Betty_wedding_pic_thumb.jpg",
+      "menuImgUrl": "room_plan_sainsbury_mobile.png",
+      "mediaItems": [
+        {
+          "mediaItemId": 1,
+          "caption": "Glenn and Betty Sainsbury on their wedding day, 1950s.",
+          "credit": "National Capital Authority",
+          "altText": "Glenn and Betty Sainsbury on their wedding day, 1950s.",
+          "url": "assets/media/1_Glenn_and_Betty_wedding_pic_edit.jpg",
+          "thumbnailUrl": "assets/media/1_Glenn_and_Betty_wedding_pic_thumb.jpg",
+          "type": "image"
+        },
+        {
+          "mediaItemId": 2,
+          "caption": "The Sainsbury Rooms at Blundells Cottage.",
+          "credit": "National Capital Authority",
+          "altText": "The Sainsbury Rooms at Blundells Cottage.",
+          "url": "assets/media/sainsbury_room_edit_2.jpg",
+          "thumbnailUrl": "assets/media/sainsbury_room_thumbnail_2.jpg",
+          "type": "image"
+        }
+      ],
+      "poiNodes": [
+        {
+          "nodeId": 200,
+          "lon": 2216,
+          "lat": 1688,
+          "title": "Iron",
+          "description": "<p>There have been several inventions to improve ironing without the aid of electricity. This petrol fired iron is just one of them. This iron was lit from underneath and a pump was used to build pressure in the tank.</p>",
+          "thumbnailUrl": "assets/media/blundells_iron_3_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 11,
+              "themeName": "hygiene"
+            },
+            {
+              "themeId": 24,
+              "themeName": "women's lives"
+            },
+            {
+              "themeId": 3,
+              "themeName": "women's work"
+            },
+            {
+              "themeId": 35,
+              "themeName": "Sainsbury rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Petrol driven iron.",
+              "credit": "National Capital Authority",
+              "altText": "Petrol driven iron.",
+              "url": "assets/media/blundells_iron_3_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_iron_3_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 201,
+          "lon": 2090,
+          "lat": 1392,
+          "title": "Canisters",
+          "description": "<p>Enamelware was first produced in the USA in the 1870s and continues to be popular today. The durability and low cost of these household items made them popular with lower income families.</p>",
+          "thumbnailUrl": "assets/media/blundells_canisters_2_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 15,
+              "themeName": "a growing population"
+            },
+            {
+              "themeId": 12,
+              "themeName": "sustainability"
+            },
+            {
+              "themeId": 35,
+              "themeName": "Sainsbury rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Enamel canisters.",
+              "credit": "National Capital Authority",
+              "altText": "Enamel canisters.",
+              "url": "assets/media/blundells_canisters_2_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_canisters_2_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 202,
+          "lon": 2122,
+          "lat": 1109,
+          "title": "Lamp",
+          "description": "<p>Though dangerous (if dropped the glass would explode), these lamps provided as much light as a 60-watt electric globe. After lighting the wick, pressure inside the lamp increases through a pumping action, producing a bright light.</p>",
+          "thumbnailUrl": "assets/media/blundells_lamp_2_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 2,
+              "themeName": "technology"
+            },
+            {
+              "themeId": 12,
+              "themeName": "sustainability"
+            },
+            {
+              "themeId": 35,
+              "themeName": "Sainsbury rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Aladdin pressure lamp.",
+              "credit": "National Capital Authority",
+              "altText": "Aladdin pressure lamp.",
+              "url": "assets/media/blundells_lamp_2_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_lamp_2_small_thumb.jpg",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 2,
+              "caption": "Blundells Cottage, 1965.",
+              "credit": "Canberra and District Historical Society Collection Photograph 3619",
+              "altText": "Blundells Cottage, 1965.",
+              "url": "assets/media/2_Blundells_Cottage_1960_CDHS_Collection_Photograph_3619_edit.jpg",
+              "thumbnailUrl": "assets/media/2_Blundells_Cottage_1960_CDHS_Collection_Photograph_3619_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 203,
+          "lon": 2927,
+          "lat": 2335,
+          "title": "Games",
+          "description": "<p>Without television, the Sainsbury children relied on hobbies, reading and parlour games for amusement. Toys such as dolls for girls and military miniatures for boys were popular in the 1950s and 60s.</p>",
+          "thumbnailUrl": "assets/media/blundells_games_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 16,
+              "themeName": "a child's life"
+            },
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 35,
+              "themeName": "Sainsbury rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Games and books.",
+              "credit": "National Capital Authority",
+              "altText": "Games and books.",
+              "url": "assets/media/blundells_games_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_games_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 204,
+          "lon": 2989,
+          "lat": 369,
+          "title": "Darts",
+          "description": "<p>The Sainsbury family suspended a dartboard above the parents' bed due to the small size of the rooms. After an accident, the children Brian and Susan were only allowed to play darts when their baby sister Wendy was <i>not</i> asleep in the bed underneath.</p>",
+          "thumbnailUrl": "assets/media/blundells_dartboard_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 16,
+              "themeName": "a child's life"
+            },
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 35,
+              "themeName": "Sainsbury rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Dartboard in the Sainsbury kitchen.",
+              "credit": "National Capital Authority",
+              "altText": "Dartboard in the Sainsbury kitchen.",
+              "url": "assets/media/blundells_dartboard_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_dartboard_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 205,
+          "lon": 2283,
+          "lat": 1258,
+          "title": "Sink",
+          "description": "<p>Living in just two rooms without electricity, sewerage or running water must have been difficult. Brian Sainsbury remembers the pride of his father Glenn when he brought home a kitchen sink cupboard for his mother Betty. The water arrived by pitcher and left via a bucket underneath the sink.</p>",
+          "thumbnailUrl": "assets/media/blundells_sink_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 3,
+              "themeName": "women's work"
+            },
+            {
+              "themeId": 24,
+              "themeName": "women's lives"
+            },
+            {
+              "themeId": 15,
+              "themeName": "a growing population"
+            },
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 35,
+              "themeName": "Sainsbury rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Kitchen sink.",
+              "credit": "National Capital Authority",
+              "altText": "Kitchen sink.",
+              "url": "assets/media/blundells_sink_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_sink_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 206,
+          "lon": 2926,
+          "lat": 1704,
+          "title": "Cupboard",
+          "description": "<p>These cabinets were ubiquitous in an Australian house in the first half of the 20th century. Many like this one had metal-lined bread containers in the centre. The metal (sometimes zinc) stopped vermin such as rats from chewing their way through and ruining the family's loaf.</p>",
+          "thumbnailUrl": "assets/media/blundells_kitchen_dresser_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 12,
+              "themeName": "sustainability"
+            },
+            {
+              "themeId": 4,
+              "themeName": "make do and mend"
+            },
+            {
+              "themeId": 35,
+              "themeName": "Sainsbury rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Kitchen dresser.",
+              "credit": "National Capital Authority",
+              "altText": "Kitchen dresser.",
+              "url": "assets/media/blundells_kitchen_dresser_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_kitchen_dresser_small_thumb.jpg",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 2,
+              "caption": "View of the Cottage from Wendouree Drive 1963.",
+              "credit": "008310 Courtesy of ACT Heritage Library",
+              "altText": "View of the Cottage from Wendouree Drive 1963.",
+              "url": "assets/media/4__1963_from_Wendoorie_Drive-008310_Courtesy_of_ACT_Heritage_Library_edit.jpg",
+              "thumbnailUrl": "assets/media/4__1963_from_Wendoorie_Drive-008310_Courtesy_of_ACT_Heritage_Library_thumb.png",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 207,
+          "lon": 3398,
+          "lat": 1576,
+          "title": "Dining Table",
+          "description": "<p>This china is similar to what the Sainsbury family used while living in the Cottage. The children loved Weetbix for breakfast, accompanied by freshly made Sunshine powdered milk. Their father would mix a new batch for them every morning.</p>",
+          "thumbnailUrl": "assets/media/blundells_dining_table_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 16,
+              "themeName": "a child's life"
+            },
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 35,
+              "themeName": "Sainsbury rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Dining table.",
+              "credit": "National Capital Authority",
+              "altText": "Dining table.",
+              "url": "assets/media/blundells_dining_table_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_dining_table_small_thumb.jpg",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 2,
+              "caption": "Sunshine Powdered Milk Commercial 1960. Duration: 00:32.",
+              "credit": "Tubechive",
+              "altText": "Sunshine Powdered Milk Commercial 1960. Duration: 00:32.",
+              "url": "assets/media/Sunshine_Powdered_Milk_Commercial_1960.mp4",
+              "thumbnailUrl": "assets/media/Sunshine_Powdered_Milk_Commercial_1960_thumb.png",
+              "type": "video"
+            }
+          ]
+        },
+        {
+          "nodeId": 208,
+          "lon": 2026,
+          "lat": 1587,
+          "title": "Radio",
+          "description": "<p>The Sainsbury family listened to the radio by hooking the power lead up to the battery of Glenn's ute, parked outside the window. The parents listened to the ABC news and dance music on 2CA. The children enjoyed listening to the Argonauts Club, a popular radio show for children.</p>",
+          "thumbnailUrl": "assets/media/blundells_radio_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 2,
+              "themeName": "technology"
+            },
+            {
+              "themeId": 16,
+              "themeName": "a child's life"
+            },
+            {
+              "themeId": 35,
+              "themeName": "Sainsbury rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Radio on the mantlepiece.",
+              "credit": "National Capital Authority",
+              "altText": "Radio on the mantlepiece.",
+              "url": "assets/media/blundells_radio_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_radio_small_thumb.jpg",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 2,
+              "caption": "Argonauts Club Badge and Certificate, 1950s.",
+              "credit": "State Library of South Australia Collection",
+              "altText": "Argonauts Club Badge and Certificate, 1950s.",
+              "url": "assets/media/5_Argonauts_Club_badge_and_pledge_Source_State_Library_of_South_Australia-2.jpg",
+              "thumbnailUrl": "assets/media/5_Argonauts_Club_badge_and_pledge_Source_State_Library_of_South_Australia-2_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 209,
+          "lon": 3326,
+          "lat": 2417,
+          "title": "Toy Planes",
+          "description": "<p>As a young boy, Brian loved making Airfix model aircraft, including these - a Sopwith Camel, a Lancaster Bomber and a Spitfire. However, he always ran out of patience with the project and never got around to painting them.</p>",
+          "thumbnailUrl": "assets/media/blundells_toy_planes_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 16,
+              "themeName": "a child's life"
+            },
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 35,
+              "themeName": "Sainsbury rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Toy planes.",
+              "credit": "National Capital Authority",
+              "altText": "Toy planes.",
+              "url": "assets/media/blundells_toy_planes_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_toy_planes_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 210,
+          "lon": 2674,
+          "lat": 2199,
+          "title": "Posters",
+          "description": "<p>Betty Sainsbury worked at the Australian War Memorial and would bring home surplus World War II posters for Brian to hang in his bedroom.</p>",
+          "thumbnailUrl": "assets/media/blundells_kids_posters_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 16,
+              "themeName": "a child's life"
+            },
+            {
+              "themeId": 1,
+              "themeName": "family ties"
+            },
+            {
+              "themeId": 35,
+              "themeName": "Sainsbury rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "World War II posters.",
+              "credit": "National Capital Authority",
+              "altText": "World War II posters.",
+              "url": "assets/media/blundells_kids_posters_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_kids_posters_small_thumb.jpg",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 2,
+              "caption": "Blundells Cottage, 1963.",
+              "credit": "National Library of Australia #10730678",
+              "altText": "Blundells Cottage, 1963.",
+              "url": "assets/media/6_Blundells_Cottage_1963_National_Library_of_Australia_10730678_edit.jpg",
+              "thumbnailUrl": "assets/media/6_Blundells_Cottage_1963_National_Library_of_Australia_10730678_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 211,
+          "lon": 2168,
+          "lat": 942,
+          "title": "Sewing Kit",
+          "description": "<p>Making this style of sewing box was a very popular craft in the 1950s. Wrapping paper, greeting cards or even photographs were cut out in the shapes needed, then sandwiched together between sheets of plastic and crocheted together.</p>",
+          "thumbnailUrl": "assets/media/blundells_sewing_kit_2_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 3,
+              "themeName": "women's work"
+            },
+            {
+              "themeId": 4,
+              "themeName": "make do and mend"
+            },
+            {
+              "themeId": 35,
+              "themeName": "Sainsbury rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Sewing kit.",
+              "credit": "National Capital Authority",
+              "altText": "Sewing kit.",
+              "url": "assets/media/blundells_sewing_kit_2_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_sewing_kit_2_small_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        },
+        {
+          "nodeId": 212,
+          "lon": 3964,
+          "lat": 505,
+          "title": "Cottage Wall",
+          "description": "<p>Blundells Cottage was occupied as a home for 100 years and has now existed for 160 years, so has been repainted countless times. Some of those layers of paint are visible here. A forensic paint analysis report found that some of the oldest paint is the pale blue. The Blundell family lived in the Cottage before and after Canberra was chosen as Australia's Federal Capital. Imagine the development of the city they would have seen during their decades in the Cottage.</p>",
+          "thumbnailUrl": "assets/media/blundells_wall_small_thumb.jpg",
+          "themes": [
+            {
+              "themeId": 25,
+              "themeName": "urban development"
+            },
+            {
+              "themeId": 26,
+              "themeName": "housing"
+            },
+            {
+              "themeId": 5,
+              "themeName": "plains of promise"
+            },
+            {
+              "themeId": 35,
+              "themeName": "Sainsbury rooms"
+            }
+          ],
+          "mediaItems": [
+            {
+              "mediaItemId": 1,
+              "caption": "Layers of paint on the wall of the Cottage.",
+              "credit": "National Capital Authority",
+              "altText": "Layers of paint on the wall of the Cottage.",
+              "url": "assets/media/blundells_wall_small.jpg",
+              "thumbnailUrl": "assets/media/blundells_wall_small_thumb.jpg",
+              "type": "image"
+            },
+            {
+              "mediaItemId": 2,
+              "caption": "Public servants in the Prime Minister's Department, West Block. R G Casey second from right, 1928.",
+              "credit": "National Archives of Australia #3235048",
+              "altText": "Public servants in the Prime Minister's Department, West Block. R G Casey second from right, 1928.",
+              "url": "assets/media/1-2_Public_Servants_1928_NLA_3235048_0001_edit.jpg",
+              "thumbnailUrl": "assets/media/1-2_Public_Servants_1928_NLA_3235048_0001_thumb.jpg",
+              "type": "image"
+            }
+          ]
+        }
+      ]
+    }
+  ]

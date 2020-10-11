@@ -1,0 +1,842 @@
+{
+  "mapNodes": [
+    {
+      "nodeId": 1,
+      "lat": -35.292813,
+      "lon": 149.141911,
+      "title": "Vegetable Garden",
+      "description": "<p>The Campbell family, who owned Duntroon Estate, allotted a house and a parcel of land to each married worker on the estate. Blundells Cottage is the one of the few remaining cottages from that time period. In addition to the provision of lodgings, the Campbells granted workers a free half day on Saturdays to tend their gardens. Subsequent families also grew their own food for themselves and for sale. This garden bed represents the approximate site of Alice Oldfield's garden. In the 1960s, the Sainsbury family grew potatoes and watermelons on the western side of the house.</p>",
+      "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_vegetable_garden_small_thumb.jpg",
+      "themes": [
+        {
+          "themeId": 14,
+          "themeName": "family life"
+        },
+        {
+          "themeId": 18,
+          "themeName": "food"
+        },
+        {
+          "themeId": 25,
+          "themeName": "urban development"
+        },
+        {
+          "themeId": 4,
+          "themeName": "make do and mend"
+        },
+        {
+          "themeId": 36,
+          "themeName": "outside the Cottage"
+        }
+      ],
+      "mediaItems": [
+        {
+          "mediaItemId": 1,
+          "caption": "The vegetable garden at Blundells Cottage.",
+          "credit": "National Capital Authority",
+          "altText": "The vegetable garden at Blundells Cottage.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_vegetable_garden_small.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_vegetable_garden_small_thumb.jpg",
+          "type": "image"
+        },
+        {
+          "mediaItemId": 2,
+          "caption": "Girls playing, 1970.",
+          "credit": "Photo 001202, ACT Heritage Library, Department of Capital Territory Collection",
+          "altText": "Girls playing, 1970.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/1_Girls_playing_1970-001202_Courtesy_ACT_Heritage_Library_Department_of_Capital_Territory_Collection_edit.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/1_Girls_playing_1970-001202_Courtesy_ACT_Heritage_Library_Department_of_Capital_Territory_Collection_thumb.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "nodeId": 2,
+      "lat": -35.29283,
+      "lon": 149.141833,
+      "title": "Bread Oven",
+      "description": "<p>This exterior oven was built in an extension to the Cottage completed in 1888 by the Blundell family. Flora Blundell would use this oven to bake bread for the family three times a week. On the other days, the family would eat damper. When she wasn't using it, Flora would let her neighbours, such as Mrs. Mayo, bake for their own families. Thousands of years ago, the local Aboriginal people would also make a type of bread or cake from ground Bogong Moths and Kangaroo Grass.</p>",
+      "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_bread_oven_small_thumb.jpg",
+      "themes": [
+        {
+          "themeId": 4,
+          "themeName": "make do and mend"
+        },
+        {
+          "themeId": 1,
+          "themeName": "family ties"
+        },
+        {
+          "themeId": 3,
+          "themeName": "women's work"
+        },
+        {
+          "themeId": 27,
+          "themeName": "aboriginal country"
+        },
+        {
+          "themeId": 36,
+          "themeName": "outside the Cottage"
+        }
+      ],
+      "mediaItems": [
+        {
+          "mediaItemId": 1,
+          "caption": "The bread oven at Blundells Cottage.",
+          "credit": "National Capital Authority",
+          "altText": "The bread oven at Blundells Cottage.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_bread_oven_small.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_bread_oven_small_thumb.jpg",
+          "type": "image"
+        },
+        {
+          "mediaItemId": 2,
+          "caption": "Bogong Moth - Agrotis infusa.",
+          "credit": "Donald Hobern, Aranda, ACT 3.4 October 2008",
+          "altText": "Bogong Moth - Agrotis infusa.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/1024px-Agrotis_infusa.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/1024px-Agrotis_infusa_thumb.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "nodeId": 3,
+      "lat": -35.292859,
+      "lon": 149.141922,
+      "title": "Ship's Tank",
+      "description": "<p>Once these tanks had served their purpose on board a ship, they were often purchased by rural households to be used as water tanks. The Blundells had three onsite, which they filled from the Molonglo River.</p>",
+      "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_tank_1_small_thumb.jpg",
+      "themes": [
+        {
+          "themeId": 12,
+          "themeName": "sustainability"
+        },
+        {
+          "themeId": 2,
+          "themeName": "technology"
+        },
+        {
+          "themeId": 36,
+          "themeName": "outside the Cottage"
+        }
+      ],
+      "mediaItems": [
+        {
+          "mediaItemId": 1,
+          "caption": "Ship's tank used as a water tank.",
+          "credit": "National Capital Authority",
+          "altText": "One of the water tanks at Blundells Cottage.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_tank_1_small.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_tank_1_small_thumb.jpg",
+          "type": "image"
+        },
+        {
+          "mediaItemId": 2,
+          "caption": "Molonglo River in flood.",
+          "credit": "National Archives of Australia, #1965060",
+          "altText": "Molonglo River in flood.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/7-1_Molonglo_River_in_Flood_NLA_photo_1965060_edit.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/7-1_Molonglo_River_in_Flood_NLA_photo_1965060_thumb.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "nodeId": 4,
+      "lat": -35.292759,
+      "lon": 149.141837,
+      "title": "Rainwater Tank",
+      "description": "<p>The ubiquitous Australian rainwater tank, used to catch water running off the roof, saved at least some trips to the river. This is the approximate location of the last tank onsite during Alice Oldfield's residence (1930s–⁠40s).</p>",
+      "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_tank_2_small_thumb.jpg",
+      "themes": [
+        {
+          "themeId": 12,
+          "themeName": "sustainability"
+        },
+        {
+          "themeId": 2,
+          "themeName": "technology"
+        },
+        {
+          "themeId": 36,
+          "themeName": "outside the Cottage"
+        }
+      ],
+      "mediaItems": [
+        {
+          "mediaItemId": 1,
+          "caption": "The rainwater tank at the front of Blundells Cottage.",
+          "credit": "National Capital Authority",
+          "altText": "The rainwater tank at the front of Blundells Cottage.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_tank_2_small.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_tank_2_small_thumb.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "nodeId": 5,
+      "lat": -35.292838,
+      "lon": 149.142055,
+      "title": "Fence Line",
+      "description": "<p>These posts represent the fence line of the northern boundary of George Blundell's 125 acre leasehold. Property boundary fences were mandatory from the time of the Robertson Land Act of 1864.</p>",
+      "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_fence_line_small_thumb.jpg",
+      "themes": [
+        {
+          "themeId": 5,
+          "themeName": "plains of promise"
+        },
+        {
+          "themeId": 36,
+          "themeName": "outside the Cottage"
+        }
+      ],
+      "mediaItems": [
+        {
+          "mediaItemId": 1,
+          "caption": "The fence line.",
+          "credit": "National Capital Authority",
+          "altText": "The fence line.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_fence_line_small.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_fence_line_small_thumb.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "nodeId": 6,
+      "lat": -35.292839,
+      "lon": 149.141718,
+      "title": "1888 Building Line",
+      "description": "<p>There is a visible change in the stone construction of the building on the western side. The southern section (with the chimney) is an extension built in 1888 and the stonework is not as refined as that of the original building. Note the profile of the original section - it is identical to the crofters cottages of western Scotland, where the original design and the stonemasons themselves came from.</p>",
+      "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_exterior_wall_small_thumb.jpg",
+      "themes": [
+        {
+          "themeId": 29,
+          "themeName": "growing families"
+        },
+        {
+          "themeId": 1,
+          "themeName": "family ties"
+        },
+        {
+          "themeId": 4,
+          "themeName": "make do and mend"
+        },
+        {
+          "themeId": 36,
+          "themeName": "outside the Cottage"
+        }
+      ],
+      "mediaItems": [
+        {
+          "mediaItemId": 1,
+          "caption": "The side of Blundells Cottage showing the difference between the extension and the original building.",
+          "credit": "National Capital Authority",
+          "altText": "The side of Blundells Cottage showing the difference between the extension and the original building.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_exterior_wall_small.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_exterior_wall_small_thumb.jpg",
+          "type": "image"
+        },
+        {
+          "mediaItemId": 2,
+          "caption": "Closeup showing the detail of the original stonework.",
+          "credit": "National Capital Authority",
+          "altText": "Closeup showing the detail of the original stonework.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_exterior_wall_1_small.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_exterior_wall_1_small_thumb.jpg",
+          "type": "image"
+        },
+        {
+          "mediaItemId": 3,
+          "caption": "Closeup showing the less-refined detail of the extension stonework.",
+          "credit": "National Capital Authority",
+          "altText": "Closeup showing the less-refined detail of the extension stonework.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_exterior_wall_2_small.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_exterior_wall_2_small_thumb.jpg",
+          "type": "image"
+        },
+        {
+          "mediaItemId": 4,
+          "caption": "A Crofters Cottage in Onich, Scotland.",
+          "credit": "Wikicommons, unknown author, 1903, Leonard A Lauder collection of Raphael Tuck & Sons Postcards https://commons.wikimedia.org/wiki/",
+          "altText": "A Crofters Cottage in Onich, Scotland.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/the_highlands_crofters_small.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/the_highlands_crofters_small_thumb.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "nodeId": 7,
+      "lat": -35.292742,
+      "lon": 149.141706,
+      "title": "Artemisia Plant",
+      "description": "<p>Wormwood (<i>Artemisia arborescens</i>) was a popular plant in the 19th and 20th century because its leaves repel insects.</p>",
+      "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_wormwood_wide_small_thumb.jpg",
+      "themes": [
+        {
+          "themeId": 12,
+          "themeName": "sustainability"
+        },
+        {
+          "themeId": 36,
+          "themeName": "outside the Cottage"
+        }
+      ],
+      "mediaItems": [
+        {
+          "mediaItemId": 1,
+          "caption": "The wormwood plant outside the Cottage verandah.",
+          "credit": "National Capital Authority",
+          "altText": "The wormwood plant outside the Cottage verandah.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_wormwood_wide_small.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_wormwood_wide_small_thumb.jpg",
+          "type": "image"
+        },
+        {
+          "mediaItemId": 2,
+          "caption": "Close-up of wormwood plant.",
+          "credit": "National Capital Authority",
+          "altText": "Close-up of wormwood plant.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_wormwood_small.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_wormwood_small_thumb.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "nodeId": 8,
+      "lat": -35.293258,
+      "lon": 149.141326,
+      "title": "Lake Burley Griffin",
+      "description": "<p>Did you know that Lake Burley Griffin is man-made? It was completed in 1963 after the Molonglo River was dammed. This was not the first significant change to the landscape. The Traditional Custodians of the land experienced major changes to their way of life after white settlement of the area.</p>",
+      "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_lake_burley_griffin_small_thumb.jpg",
+      "themes": [
+        {
+          "themeId": 28,
+          "themeName": "a changing landscape"
+        },
+        {
+          "themeId": 27,
+          "themeName": "aboriginal country"
+        },
+        {
+          "themeId": 5,
+          "themeName": "plains of promise"
+        },
+        {
+          "themeId": 36,
+          "themeName": "outside the Cottage"
+        }
+      ],
+      "mediaItems": [
+        {
+          "mediaItemId": 1,
+          "caption": "Lake Burley Griffin.",
+          "credit": "National Capital Authority",
+          "altText": "Lake Burley Griffin.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_lake_burley_griffin_small.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_lake_burley_griffin_small_thumb.jpg",
+          "type": "image"
+        },
+        {
+          "mediaItemId": 2,
+          "caption": "Blundells Cottage in the foreground and the High Court under construction in 1978 in the background.",
+          "credit": "Photo 006158, ACT Heritage Library, Canberra Times Collection",
+          "altText": "Blundells Cottage in the foreground and the High Court under construction in 1978 in the background.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/6_High_Court_under_construction_1978-006158_Courtesy_ACT_Heritage_Library_Canberra_Times_Collection_edit.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/6_High_Court_under_construction_1978-006158_Courtesy_ACT_Heritage_Library_Canberra_Times_Collection_thumb.jpg",
+          "type": "image"
+        },
+        {
+          "mediaItemId": 3,
+          "caption": "The Administrative Building (later John Gorton Building) and the National Library of Australia in the background, 1983.",
+          "credit": "Photo 000210, ACT Heritage Library, Canberra Times Collection",
+          "altText": "The Administrative Building (later John Gorton Building) and the National Library of Australia in the background, 1983.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/7_Administrative_Building_later_John_Gorton_Building_and_NLA_in_the_background_1983-000210_Courtesy_ACT_Heritage_Library_Canberra_Times_collection_edit.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/7_Administrative_Building_later_John_Gorton_Building_and_NLA_in_the_background_1983-000210_Courtesy_ACT_Heritage_Library_Canberra_Times_collection_thumb.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "nodeId": 9,
+      "lat": -35.292957,
+      "lon": 149.141774,
+      "title": "Acknowledgement of Country",
+      "description": "<p>Families have occupied this land for thousands of years, long before the Cottage was constructed. The NCA acknowledges the traditional custodians of this land and pays their respects to their elders past, present and emerging.</p>",
+      "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/acknowledgement_rock_art_thumb.jpg",
+      "themes": [
+        {
+          "themeId": 1,
+          "themeName": "family ties"
+        },
+        {
+          "themeId": 27,
+          "themeName": "aboriginal country"
+        },
+        {
+          "themeId": 36,
+          "themeName": "outside the Cottage"
+        }
+      ],
+      "mediaItems": [
+        {
+          "mediaItemId": 1,
+          "caption": "Ngunnawal rock art from Namadgi National Park about 65km south of Blundells Cottage.",
+          "credit": "(Martyman) November 2005 via Wikicommons",
+          "altText": "Ngunnawal rock art from Namadgi National Park about 65km south of Blundells Cottage.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/acknowledgement_rock_art.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/acknowledgement_rock_art_thumb.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "nodeId": 10,
+      "lat": -35.292812,
+      "lon": 149.141954,
+      "title": "Robert Campbell 1769–1846 - Founder of Duntroon",
+      "description": "<p>Originally from Scotland, Robert Campbell arrived in Sydney on the <i>Hunter</i> in 1798 as a wealthy merchant. When his ship <i>The Sydney</i> was wrecked, he was compensated in the form of rich, grazing land on the Limestone Plains, now Canberra. He built Duntroon House on his large Duntroon Estate in 1830, the first limestone dwelling in the region. By 1860, George Campbell, Robert's son, and his wife Marrianne Campbell had moved into Duntroon House. They started a major building program on the estate which included workman's cottages for the newly arrived immigrant workers from Britain. Blundells Cottage was made from stone quarried from Black Mountain and Mount Ainslie and was based upon crofters cottages of Western Scotland.</p>",
+      "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/401074-max_thumb.jpg",
+      "themes": [
+        {
+          "themeId": 5,
+          "themeName": "plains of promise"
+        },
+        {
+          "themeId": 9,
+          "themeName": "migration"
+        },
+        {
+          "themeId": 1,
+          "themeName": "family ties"
+        },
+        {
+          "themeId": 28,
+          "themeName": "a changing landscape"
+        },
+        {
+          "themeId": 36,
+          "themeName": "outside the Cottage"
+        }
+      ],
+      "mediaItems": [
+        {
+          "mediaItemId": 1,
+          "caption": "Robert Campbell (1769–1846), by unknown artist.",
+          "credit": "National Library of Australia, nla.pic-an11030057-206",
+          "altText": "Robert Campbell (1769–1846), by unknown artist.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/401074-max.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/401074-max_thumb.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "nodeId": 11,
+      "lat": -35.292774,
+      "lon": 149.14179,
+      "title": "Former Site of Cubby",
+      "description": "<p>During some time in the early 20th century, the verandah of the Cottage was enclosed to create another room. Alice Oldfield would let this room to tenants. The enclosure has since been removed.</p>",
+      "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/10_Enclosed_verandah_source_NCA_thumb.jpg",
+      "themes": [
+        {
+          "themeId": 29,
+          "themeName": "growing families"
+        },
+        {
+          "themeId": 4,
+          "themeName": "make do and mend"
+        },
+        {
+          "themeId": 36,
+          "themeName": "outside the Cottage"
+        }
+      ],
+      "mediaItems": [
+        {
+          "mediaItemId": 1,
+          "caption": "A rare photo of the enclosed verandah of the Cottage taken in the 1930s.",
+          "credit": "National Capital Authority",
+          "altText": "A rare photo of the enclosed verandah of the Cottage taken in the 1930s.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/10_Enclosed_verandah_source_NCA.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/10_Enclosed_verandah_source_NCA_thumb.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "nodeId": 12,
+      "lat": -35.29299,
+      "lon": 149.141851,
+      "title": "Former Site of Kennels",
+      "description": "<p>Harry Oldfield managed the guard dogs for the main gate at the Royal Military College when he occupied the Cottage in the 1930s. We think the kennels may have been located in this spot. The guard dogs were housed and fed at the Cottage and were exchanged at RMC twice daily. After Harry died, Alice and one of Harry’s nephews living with her, took over the duty.</p>",
+      "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/4-4_Views_near_Parkes_Way_NCA_Collection_thumb.jpg",
+      "themes": [
+        {
+          "themeId": 4,
+          "themeName": "make do and mend"
+        },
+        {
+          "themeId": 1,
+          "themeName": "family ties"
+        },
+        {
+          "themeId": 36,
+          "themeName": "outside the Cottage"
+        }
+      ],
+      "mediaItems": [
+        {
+          "mediaItemId": 1,
+          "caption": "A turkey shed, kennels, haystacks, a small forge, a cow shed and a chicken shed to the right of Blundells Cottage, 1930s.",
+          "credit": "National Capital Authority",
+          "altText": "A turkey shed, kennels, haystacks, a small forge, a cow shed and a chicken shed to the right of Blundells Cottage, 1930s.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/4-4_Views_near_Parkes_Way_NCA_Collection_edit.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/4-4_Views_near_Parkes_Way_NCA_Collection_thumb.jpg",
+          "type": "image"
+        },
+        {
+          "mediaItemId": 2,
+          "caption": "David O'Brien on a motorcycle with kennels in the background, 1957.",
+          "credit": "National Capital Authority",
+          "altText": "David O'Brien on a motorcycle with kennels in the background, 1957.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/Baby_on_motorbike_KENNELS_IN_BACKGROUND.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/Baby_on_motorbike_KENNELS_IN_BACKGROUND_thumb.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "nodeId": 13,
+      "lat": -35.292992,
+      "lon": 149.141698,
+      "title": "Former Site of Beehives",
+      "description": "<p>George Blundell kept bees and used the rafters in a room in the house (currently presented as Alice Oldfield's kitchen) to hang the comb in calico bags. The honey would drip into containers placed on the brick floor beneath. Could the beehives have been in this spot? To avoid beestings, it's unlikely they were too close to the house!</p>",
+      "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_honey_small_thumb.jpg",
+      "themes": [
+        {
+          "themeId": 13,
+          "themeName": "subsistence"
+        },
+        {
+          "themeId": 12,
+          "themeName": "sustainability"
+        },
+        {
+          "themeId": 5,
+          "themeName": "plains of promise"
+        },
+        {
+          "themeId": 4,
+          "themeName": "make do and mend"
+        },
+        {
+          "themeId": 36,
+          "themeName": "outside the Cottage"
+        }
+      ],
+      "mediaItems": [
+        {
+          "mediaItemId": 1,
+          "caption": "A jar of honey.",
+          "credit": "National Capital Authority",
+          "altText": "A jar of honey.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_honey_small.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_honey_small_thumb.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "nodeId": 14,
+      "lat": -35.292677,
+      "lon": 149.141704,
+      "title": "Former Site of Horses",
+      "description": "<p>In the Blundell era (1874–1933), horses were tethered under a shady tree by the path that led to the front door.</p>",
+      "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/Horses_with_wheat_-_NCA_Collection_thumb.jpg",
+      "themes": [
+        {
+          "themeId": 1,
+          "themeName": "family ties"
+        },
+        {
+          "themeId": 5,
+          "themeName": "plains of promise"
+        },
+        {
+          "themeId": 28,
+          "themeName": "a changing landscape"
+        },
+        {
+          "themeId": 36,
+          "themeName": "outside the Cottage"
+        }
+      ],
+      "mediaItems": [
+        {
+          "mediaItemId": 1,
+          "caption": "Load of wheat (weighing 30 tonnes) drawn into Weethallie by Lyle Blundell on 12 December, 1928.",
+          "credit": "National Capital Authority",
+          "altText": "Load of wheat (weighing 30 tonnes) drawn into Weethallie by Lyle Blundell on 12 December, 1928.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/Horses_with_wheat_-_NCA_Collection.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/Horses_with_wheat_-_NCA_Collection_thumb.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "nodeId": 15,
+      "lat": -35.292869,
+      "lon": 149.141958,
+      "title": "Former Site of Alice's Buggy",
+      "description": "<p>Before cars were readily available, Alice parked her horse-drawn buggy here. Alice lived here in the 30s and 40s.</p>",
+      "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/Horse_drawn_buggy_-_Source_NonCommercial-ShareAlike_2-0_Generic_CC_BY-NC-SA_2-0_thumb.jpg",
+      "themes": [
+        {
+          "themeId": 3,
+          "themeName": "women's work"
+        },
+        {
+          "themeId": 5,
+          "themeName": "plains of promise"
+        },
+        {
+          "themeId": 36,
+          "themeName": "outside the Cottage"
+        }
+      ],
+      "mediaItems": [
+        {
+          "mediaItemId": 1,
+          "caption": "Horse-drawn buggy, United States, likely taken in the 1930s.",
+          "credit": "Source: plaisanter, Flickr",
+          "altText": "Horse-drawn buggy, United States, likely taken in the 1930s.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/Horse_drawn_buggy_-_Source_NonCommercial-ShareAlike_2-0_Generic_CC_BY-NC-SA_2-0.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/Horse_drawn_buggy_-_Source_NonCommercial-ShareAlike_2-0_Generic_CC_BY-NC-SA_2-0_thumb.jpg",
+          "type": "image"
+        },
+        {
+          "mediaItemId": 2,
+          "caption": "Car parked outside Blundells Cottage, 1961.",
+          "credit": "National Capital Authority",
+          "altText": "Car parked outside Blundells Cottage, 1961.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/Car_parked_outside_blundells_cottage_NCA_Collection.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/Car_parked_outside_blundells_cottage_NCA_Collection_thumb.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "nodeId": 16,
+      "lat": -35.292693,
+      "lon": 149.141914,
+      "title": "Former Site of Forge",
+      "description": "<p>George Blundell may have had a rudimentary forge for quick repairs and the ruins of a ‘shed’ were observed in this spot. Could it be the forge? Other reports say the shed was used as a laundry.</p>",
+      "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/Blacksmithing_thumb.jpg",
+      "themes": [
+        {
+          "themeId": 4,
+          "themeName": "make do and mend"
+        },
+        {
+          "themeId": 12,
+          "themeName": "sustainability"
+        },
+        {
+          "themeId": 36,
+          "themeName": "outside the Cottage"
+        }
+      ],
+      "mediaItems": [
+        {
+          "mediaItemId": 1,
+          "caption": "Blacksmith with hammer and anvil.",
+          "credit": "Scott Sanders, Wikimedia Commons/Flickr",
+          "altText": "Blacksmith with hammer and anvil.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/Blacksmithing.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/Blacksmithing_thumb.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "nodeId": 17,
+      "lat": -35.292678,
+      "lon": 149.14183,
+      "title": "Cockatoo and Chooks",
+      "description": "<p>Alice kept a cockie that would sit on the fence and squawk at visitors to ‘shut the gate’ - to keep the chooks out of the veggie garden.</p>",
+      "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/sulfur_crested_cockatoo_thumb.jpg",
+      "themes": [
+        {
+          "themeId": 1,
+          "themeName": "family ties"
+        },
+        {
+          "themeId": 3,
+          "themeName": "women's work"
+        },
+        {
+          "themeId": 5,
+          "themeName": "plains of promise"
+        },
+        {
+          "themeId": 36,
+          "themeName": "outside the Cottage"
+        }
+      ],
+      "mediaItems": [
+        {
+          "mediaItemId": 1,
+          "caption": "Sulfur-crested cockatoo.",
+          "credit": "Sardaka, Wikimedia Commons",
+          "altText": "Sulfur-crested cockatoo.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/sulfur_crested_cockatoo.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/sulfur_crested_cockatoo_thumb.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "nodeId": 18,
+      "lat": -35.292702,
+      "lon": 149.141756,
+      "title": "Cypress Pine",
+      "description": "<p>This Cypress pine is at least 60 years old and may have been planted in the 60s during the Sainsbury family's occupation. Cypress pines resist decay, are termite resistant and can be used to make furniture.</p>",
+      "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_tree_wide_small_thumb.jpg",
+      "themes": [
+        {
+          "themeId": 12,
+          "themeName": "sustainability"
+        }
+      ],
+      "mediaItems": [
+        {
+          "mediaItemId": 1,
+          "caption": "The tree out the front of Blundells Cottage.",
+          "credit": "National Capital Authority",
+          "altText": "The tree out the front of Blundells Cottage.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_tree_wide_small.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_tree_wide_small_thumb.jpg",
+          "type": "image"
+        },
+        {
+          "mediaItemId": 2,
+          "caption": "Detail showing the foliage of the tree.",
+          "credit": "National Capital Authority",
+          "altText": "Detail showing the foliage of the tree.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_tree_detail_small.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundells_tree_detail_small_thumb.jpg",
+          "type": "image"
+        }
+      ]
+    }
+  ],
+  "mapRoomNodes": [
+    {
+      "roomId": 1,
+      "lat": -35.292791,
+      "lon": 149.141795,
+      "title": "1. Ginn Rooms 1860–1874",
+      "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/ginn_room_thumbnail.jpg"
+    },
+    {
+      "roomId": 2,
+      "lat": -35.292921,
+      "lon": 149.141861,
+      "title": "2. Blundell Rooms 1874–1933",
+      "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/blundell_room_thumbnail.jpg"
+    },
+    {
+      "roomId": 3,
+      "lat": -35.292824,
+      "lon": 149.141779,
+      "title": "3. Oldfield Rooms 1933–1958",
+      "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/oldfield_room_thumbnail.jpg"
+    },
+    {
+      "roomId": 4,
+      "lat": -35.29288,
+      "lon": 149.141757,
+      "title": "4. Sainsbury Rooms 1958–1960",
+      "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/sainsbury_room_thumbnail.jpg"
+    }
+  ],
+  "mapRooms": [
+    {
+      "roomId": 1,
+      "lat": -35.292791,
+      "lon": 149.141795,
+      "title": "1. Ginn Rooms 1860–1874",
+      "description": "<p>William and Mary Ginn and their three children, Walter, Henry and Agnes were the first family to move into the Cottage in about 1860 and vacated in 1874.</p>",
+      "mediaItems": [
+        {
+          "mediaItemId": 1,
+          "caption": "",
+          "credit": "",
+          "altText": "The Ginn Rooms at Blundells Cottage.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/NCA_Blundells_Cottage_Internal_shot_Martin_Ollman_2017_001.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/NCA_Blundells_Cottage_Internal_shot_Martin_Ollman_2017_001_thumb.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "roomId": 2,
+      "lat": -35.292921,
+      "lon": 149.141861,
+      "title": "2. Blundell Rooms 1874–1933",
+      "description": "<p>George and Flora Blundell, the second occupants of Blundells Cottage, moved in as newlyweds in 1874. George was a bullock driver for the Duntroon Estate and Flora was the local midwife. The Blundells lived here until 1933, when George died.</p>",
+      "mediaItems": [
+        {
+          "mediaItemId": 1,
+          "caption": "",
+          "credit": "",
+          "altText": "The first Blundell room in the slab shed.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/NCA_Blundells Cottage_Martin Ollman_810_7468.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/NCA_Blundells Cottage_Martin Ollman_810_7468_thumb.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "roomId": 3,
+      "lat": -35.292824,
+      "lon": 149.141779,
+      "title": "3. Oldfield Rooms 1933–1958",
+      "description": "<p>Henry (Harry) Oldfield and his wife, Alice, moved into the Cottage in the early 1930s and lived there until Alice died in 1958.</p>",
+      "mediaItems": [
+        {
+          "mediaItemId": 1,
+          "caption": "",
+          "credit": "",
+          "altText": "TThe Oldfield kitchen at Blundells Cottage.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/oldfield_room_edit_2.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/oldfield_room_thumbnail_2.jpg",
+          "type": "image"
+        }
+      ]
+    },
+    {
+      "roomId": 4,
+      "lat": -35.29288,
+      "lon": 149.141757,
+      "title": "4. Sainsbury Rooms 1958–1961",
+      "description": "<p>The Sainsbury family rented two rooms of Blundells Cottage from 1958–1961. Glenn and Betty lived here with their three children: Brian, Susan and baby Wendy.</p>",
+      "mediaItems": [
+        {
+          "mediaItemId": 1,
+          "caption": "",
+          "credit": "",
+          "altText": "The Sainsbury kitchen at Blundells Cottage.",
+          "url": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/sainsbury_room_edit_2.jpg",
+          "thumbnailUrl": "https://lightwell-blundells-media.s3-ap-southeast-2.amazonaws.com/media/sainsbury_room_thumbnail_2.jpg",
+          "type": "image"
+        }
+      ]
+    }
+  ]
+}
